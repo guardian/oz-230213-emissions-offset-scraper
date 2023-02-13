@@ -1,0 +1,151 @@
+1676261867101	geckodriver	INFO	Listening on 127.0.0.1:55040
+1676261867257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55041" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileoC8o11"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676261867721	Marionette	INFO	Marionette enabled
+1676261867786	Marionette	INFO	Listening on port 55055
+Read port: 55055
+WebDriver BiDi listening on ws://127.0.0.1:55041
+1676261868172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileoC8o11/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55041/devtools/browser/c4883fa7-50f2-4737-a14d-627259158933
+1676261888847	Marionette	INFO	Stopped listening on port 55055
+1676261890457	geckodriver	INFO	Listening on 127.0.0.1:55100
+1676261890972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55101" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileSUVeGu"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676261891416	Marionette	INFO	Marionette enabled
+1676261891482	Marionette	INFO	Listening on port 55109
+Read port: 55109
+WebDriver BiDi listening on ws://127.0.0.1:55101
+1676261891821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileSUVeGu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55101/devtools/browser/1c8a0050-fdae-486c-8bb5-12b32988667f
+1676261894097	Marionette	INFO	Stopped listening on port 55109
+1676261946976	geckodriver	INFO	Listening on 127.0.0.1:55170
+1676261947497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55171" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileQZu87j"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676261948014	Marionette	INFO	Marionette enabled
+1676261948092	Marionette	INFO	Listening on port 55179
+Read port: 55179
+WebDriver BiDi listening on ws://127.0.0.1:55171
+1676261948448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileQZu87j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55171/devtools/browser/a79b5426-d267-46ae-b3d0-92aaddc546a2
+1676261954282	Marionette	INFO	Stopped listening on port 55179
+1676261976726	geckodriver	INFO	Listening on 127.0.0.1:55251
+1676261977245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55252" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile8NNgRl"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676261977703	Marionette	INFO	Marionette enabled
+1676261977770	Marionette	INFO	Listening on port 55259
+WebDriver BiDi listening on ws://127.0.0.1:55252
+Read port: 55259
+1676261978353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile8NNgRl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55252/devtools/browser/c30b1bd5-be5b-4979-89c6-db36c5af8a17
+1676261982462	Marionette	INFO	Stopped listening on port 55259
+1676262015391	geckodriver	INFO	Listening on 127.0.0.1:55315
+1676262015909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55316" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilefidpt6"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676262016414	Marionette	INFO	Marionette enabled
+1676262016491	Marionette	INFO	Listening on port 55323
+Read port: 55323
+WebDriver BiDi listening on ws://127.0.0.1:55316
+1676262016852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilefidpt6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55316/devtools/browser/9a866263-9e1d-4960-934f-41b2305223bb
+1676266386759	geckodriver	INFO	Listening on 127.0.0.1:57959
+1676266387280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57960" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5WHoxx"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676266387752	Marionette	INFO	Marionette enabled
+1676266387820	Marionette	INFO	Listening on port 57967
+Read port: 57967
+WebDriver BiDi listening on ws://127.0.0.1:57960
+1676266388236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5WHoxx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57960/devtools/browser/93dd0fd4-7698-44a7-ac0e-b56d4ce8d2ad
+1676266945298	geckodriver	INFO	Listening on 127.0.0.1:58494
+1676266945814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58495" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileVXUx0T"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676266946329	Marionette	INFO	Marionette enabled
+1676266946418	Marionette	INFO	Listening on port 58503
+Read port: 58503
+WebDriver BiDi listening on ws://127.0.0.1:58495
+1676266947157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileVXUx0T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58495/devtools/browser/0cfef166-92be-4ef4-bd40-854677d54196
+1676267985498	geckodriver	INFO	Listening on 127.0.0.1:58981
+1676267986018	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58982" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileaCufqv"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676267986542	Marionette	INFO	Marionette enabled
+1676267986619	Marionette	INFO	Listening on port 58989
+Read port: 58989
+WebDriver BiDi listening on ws://127.0.0.1:58982
+1676267987035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileaCufqv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58982/devtools/browser/ace9cea7-cf9b-498b-9d2a-5ed6f11d854f
+1676268024826	Marionette	INFO	Stopped listening on port 58989
+1676268028188	Marionette	INFO	Stopped listening on port 58503
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 997: Error: Connection is not open.
+1676268030101	Marionette	INFO	Stopped listening on port 57967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676268032187	Marionette	INFO	Stopped listening on port 55323
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676268052683	geckodriver	INFO	Listening on 127.0.0.1:59059
+1676268053201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59060" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile0mqo7I"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676268053651	Marionette	INFO	Marionette enabled
+1676268053721	Marionette	INFO	Listening on port 59067
+Read port: 59067
+WebDriver BiDi listening on ws://127.0.0.1:59060
+1676268054118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile0mqo7I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59060/devtools/browser/53470bd2-0e31-4eef-ae3f-388c561d171d
+1676268070802	Marionette	INFO	Stopped listening on port 59067
+1676268309515	geckodriver	INFO	Listening on 127.0.0.1:59271
+1676268310031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59272" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileiDPhUu"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676268310524	Marionette	INFO	Marionette enabled
+1676268310602	Marionette	INFO	Listening on port 59279
+Read port: 59279
+WebDriver BiDi listening on ws://127.0.0.1:59272
+1676268310976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileiDPhUu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59272/devtools/browser/cca5a243-5c73-4e1c-9f2a-8aec16501a8f
+1676268400964	Marionette	INFO	Stopped listening on port 59279
+1676268422795	geckodriver	INFO	Listening on 127.0.0.1:59358
+1676268423311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59359" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileYcrWMu"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676268423800	Marionette	INFO	Marionette enabled
+1676268423867	Marionette	INFO	Listening on port 59366
+Read port: 59366
+WebDriver BiDi listening on ws://127.0.0.1:59359
+1676268424431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileYcrWMu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59359/devtools/browser/e483461f-ace2-4c3e-977a-e41bce316f4e
+1676268495196	Marionette	INFO	Stopped listening on port 59366
+1676268557615	geckodriver	INFO	Listening on 127.0.0.1:59447
+1676268558135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59448" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilebD2mMp"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1676268558584	Marionette	INFO	Marionette enabled
+1676268558655	Marionette	INFO	Listening on port 59455
+WebDriver BiDi listening on ws://127.0.0.1:59448
+Read port: 59455
+1676268559033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilebD2mMp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59448/devtools/browser/8a42aff8-7200-49cc-8922-4239dd86c507
+1676268704204	Marionette	INFO	Stopped listening on port 59455
