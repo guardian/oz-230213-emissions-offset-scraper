@@ -1,0 +1,84 @@
+
+
+Port Macquarie Airport Master Plan implementation and development activities, NSW
+
+
+
+
+
+
+
+
+
+
+
+SummaryOffset SitesOffset Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Under review.
+Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
+
+
+
+No. . sort ascendingDetails. sort descendingStart Date. sort descending03To compensate for residual significant impacts to 100.24 hectares of Koala habitat and 106.32 hectares of Grey-headed Flying-fox habitat, prior to the commencement of the action, the approval holder must:
+
+secure 303 hectares of Grey-headed Flying Fox habitat as an offset within the offset area,
+secure 282.54 hectares of Koala habitat as an offset within the offset area,
+Within 10 business days of securing any offsets under condition 3 a – b, the approval holder must provide the Department with written evidence that the offsets have been secured and provide shapefiles containing the offset attributes.12/11/202004To compensate for residual significant impacts to 49.47 hectares of Swift Parrot habitat, the approval holder must:
+
+Secure a direct offset of at least 39.2 hectares of Swift Parrot habitat within the offset area before undertaking any clearing in the stage 1 impact area.
+Secure a direct offset of at least 39.5 hectares of Swift Parrot habitat within the offset area before undertaking any clearing in the stage 2A impact area.
+Secure a direct offset of at least 99.5 hectares of Swift Parrot habitat that meets the requirements of the EPBC Act Environmental Offsets Policy before undertaking any clearing in the stage 2B impact area. The approval holder must not commence clearance or construction within the stage 2B impact area unless the proposed offset site(s) and security mechanism for the offset for the stage 2B impact area have been approved by the Minister in writing.
+Secure a direct offset of at least 22.8 hectares of Swift Parrot habitat that meets the requirements of the EPBC Act Environmental Offsets Policy before undertaking any clearing in the stage 3 impact area. The approval holder must not commence clearance or construction within the stage 3 impact area unless the proposed offset site(s) and security mechanism for the offset for the stage 3 impact area have been approved by the Minister in writing.
+Secure a direct offset of at least 26.5 hectares of Swift Parrot habitat that meets the requirements of the EPBC Act Environmental Offsets Policy before undertaking any clearing in the stage 4 impact area. The approval holder must not commence clearance or construction within the stage 4 impact area unless the proposed offset site(s) and security mechanism for the offset for the stage 4 impact area have been approved by the Minister in writing.
+Secure a direct offset of at least 32.5 hectares of Swift Parrot habitat that meets the requirements of the EPBC Act Environmental Offsets Policy before undertaking any clearing in the stage 5 impact area. The approval holder must not commence clearance or construction within the stage 5 impact area unless the proposed offset site(s) and security mechanism for the offset for the stage 5 impact area have been approved by the Minister in writing.
+Within 10 business days of securing each offset under condition 4 a – f, provide the Department with written evidence that the offset have been secured and provide shapefiles and the offset attributes. If the approval holder wishes to use part of an offset secured for a completed stage which it considers to be in excess of the offset amount required under the EPBC Act Environmental Offsets Policy as a result of it having avoided approved impacts in completed stages, to contribute towards offsets required for an un-commenced stage, the approval holder must provide a written proposal for the Minister’s approval which includes:
+
+details, including maps, of where clearing of some of the approved amount of Swift Parrot habitat required for the completed stage has been avoided, and
+two calculations (one for the completed stage demonstrating that all required offsets have been secured, and one for the subsequent un-commenced stage) using the EPBC Act Environmental Offsets Policy demonstrating how the offsets required for areas of Swift Parrot habitat avoided in a completed stage can contribute to Swift Parrot habitat offsets for subsequent un-commenced specified stages, and
+a map showing the exact area of offset which had been secured for a completed stage now considered in excess of that requirement and which will contribute to Swift Parrot habitat offsets for subsequent specified stages.
+
+
+
+If the approval holder proposes to use part of an offset secured for a completed stage to contribute towards offsets required for an un-commenced stage, the approval holder must not commence the un-commenced stage until the Minister has approved the proposal in writing.
+Note: The offset area required for each stage specified in condition 4a-f is additional to the offset required for each previous stage (total offsets required are at least 260 hectares that meet the requirements of the EPBC Act Environmental Offsets Policy). The offsets required under Condition 4 for stages 1-5 of the action have been calculated using the EPBC Act Environmental Offsets Policy based on the area of Swift Parrot habitat anticipated to be cleared for each stage. The Department notes there may be opportunities to avoid impacts to Swift Parrot habitat during the construction and operation of stages 1-5. If the actual clearing of Swift Parrot habitat, for any specified stage, is demonstrated to be less than the approved amount of clearing, the approval holder may have already secured offsets in excess of the amount required under the EPBC Act Environmental Offsets Policy for that stage. The approval holder may apply to use offsets in excess of that requirement as a result of avoiding impacts in completed specified stages, to contribute to Swift Parrot habitat offsets for subsequent un-commenced specified stages. The clearance and construction of Stages 1-5 may be undertaken in any sequence, as long as the approval holder satisfies the requirements of corresponding conditions 4a-f prior to undertaking any clearing in the corresponding stage impact area. If the approval holder wishes to use excess offsets from avoiding impacts in completed stages to contribute towards offsets for subsequent un-commenced specified stages, the approval holder will need the Minister’s approval of variation of Conditions 1 and 4 in respect of Swift Parrot habitat under section 143 of the EPBC Act and a variation to the Offset Site Management Plan required under Condition 5.12/11/202005Action Management Plans
+If the approval holder secures the offsets required by Condition 3a-b and 4a-f by registering a Biobanking Agreement, or the registration of a Biodiversity Stewardship Agreement, the approval holder must submit a copy of the registered Biobanking Agreement or Biodiversity Stewardship Agreement to the Department prior to commencement of the action. To ensure the requirements of condition 5a-g are addressed, when submitting the Biobanking Agreement or Biodiversity Stewardship Agreement, the approval holder must provide a clear statement or attachment showing where in the Biobanking Agreement or Biodiversity Stewardship Agreement those requirements are fulfilled. If the Biobanking Agreement or Biodiversity Stewardship Agreement does not fulfill certain requirements of condition 5a-g, the approval holder must provide information to fulfill those requirements in the form of an attachment to the submission of the relevant Agreement, prior to commencement of the action. At the time of submitting the Biobanking Agreement or Biodiversity Stewardship Agreement to the Department the approval holder must notify the Department of the date (annual due date) by which each annual report must be submitted to the relevant NSW Government agency. The approval holder must submit a copy of each Biobanking Agreement Annual Report or Biodiversity Stewardship Agreement Annual Report to the Department within 20 business days of the annual due date.
+If the approval holder does not secure the offsets required by registering a Biobanking Agreement or a Biodiversity Stewardship Site Agreement, the approval holder must submit an Offset Site Management Plan to the Minister for approval at least three months prior to the commencement of the action. The approval holder must not commence the action until the Minister has approved the Offset Site Management Plan in writing. The approved Offset Site Management Plan must be implemented from the date when it is approved for the duration of the approval.
+The Offset Site Management Plan must include the following:
+
+Identification of the environmental values of the offset site(s) including:
+The proposed security mechanism(s) for securing the offset site(s).
+
+relevant baseline information regarding the offset sites(s), including results from field validation surveys, and quantifiable ecological data on habitat quality for each protected matter currently in the offset site(s),
+a description and maps (including shapefiles) to clearly define the location and boundaries of the offset site(s), accompanied by the offset attributes including: the physical address of the offset site(s), coordinates of the boundary points in decimal degrees, the protected matters that the environmental offset site(s) compensate for, and the size of the environmental offset site(s) in hectares,
+a description and maps (including shapefiles) to clearly define all fire-affected areas within the offset site(s).
+
+A description of the proposed management actions (including timing, frequency, duration and method of outcome measurement) that will be implemented to achieve the measurable, defined ecological outcomes, including specific actions to improve the baseline habitat quality of fire-affected areas within the offset site(s).
+Commitment to measurable, defined ecological outcomes to improve the baseline habitat quality for the protected matters for which the offset site(s) are being provided and the timeframes in which these will be achieved.
+A monitoring program designed to detect triggers and track progress against performance criteria in a timely manner.
+Corrective actions and/or mitigation and management measures to be undertaken to achieve the required ecological outcomes for each protected matter.
+Details of how and when monitoring results, corrective actions taken during the reporting period and any mitigation or management measures taken will be reported to the Department.
+Details of the framework for annually reporting progress on achieving the outcomes specified in the Offset Site Management Plan.12/11/202006The approval holder must submit a Threatened Allocasuarina Management Strategy to the Minister for approval. The approval holder must not clear any Threatened Allocasuarina Habitat until the Minister has approved the Threatened Allocasuarina Management Strategy in writing. The approved Threatened Allocasuarina Management Strategy must be implemented from the date when it is approved for the duration of the approval.The Threatened Allocasuarina Management Strategy must include, but not be limited to:
+
+maps and measurements of the extent of Dwarf Heath Casuarina habitat and/or Allocasuarina thalassoscopica habitat within the proposed impact footprint and offset areas,
+the methodology that was used to distinguish between Dwarf Heath Casuarina and other Allocasuarina species that occur within the proposed impact footprint and offset areas,
+the number of Dwarf Heath Casuarina and/or Allocasuarina thalassoscopica individuals within the proposed impact footprint and offset areas,
+an offset strategy, including a propagation strategy, that addresses the residual significant impacts to Threatened Allocasuarina in accordance with the EPBC Act Environmental Offsets Policy,
+the details of mitigation measures, including but not limited to: the delineation of areas to be cleared to prevent incidental impacts to vegetation outside of the proposed impact footprint, and the construction of fencing to minimise indirect impacts to the species,
+a Threatened Allocasuarina translocation strategy in accordance with the Guidelines for the Translocation of Threatened Plants in Australia, including a plan for the ongoing monitoring and management for the translocated Threatened Allocasuarina,
+details of how and when the success of achieving the outcomes of the Threatened Allocasuarina Management Strategy will be reported to the Department.12/11/2020There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
+

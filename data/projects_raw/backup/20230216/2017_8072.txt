@@ -1,0 +1,57 @@
+
+
+Canberra Brickworks Precinct access road and Dudley Street upgrade, ACT
+
+
+
+
+
+
+
+
+
+
+
+SummaryOffset SitesOffset Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Under review.
+Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
+
+
+
+No. . sort ascendingDetails. sort descendingStart Date. sort descending02Offset Management Plan
+2. To compensate for impacts on NTG and Golden Sun Moth, the approval holder must, within 6 months of the commencement of the action, submit an Offset Management Plan for the Minister’s approval that is consistent with the Offset Strategy.27/02/2019033. The approved Offset Management Plan must be implemented.27/02/2019044. The Offset Management Plan must be consistent with the Department’s Environmental Management Plan Guidelines 2014, and must include:
+
+
+The Offset Management Plan environmental objectives, all relevant EPBC Act protected matters, and a reference to the EPBC Act approval conditions under which the Offset Management Plan is required;
+Details of a method of legal protection of the Offset Site that satisfies the Department the Offset Site will remain an environmental conservation offset in perpetuity, a commitment to implement that protection, and an enforceable deadline for implementation;
+A table listing all commitments made in the Offset Management Plan, and a reference to where the commitments are detailed in the Offset Management Plan;
+Reporting and review mechanisms, and documentation standards to demonstrate compliance with the Offset Management Plan;
+An assessment of risks to achieving the Offset Management Plan environmental objectives and an explanation and assessment of the risk management strategies that will be applied;
+Any relevant impact avoidance, mitigation, and/or repair measures, and their timing; and
+A monitoring program, which must include:
+
+
+
+
+
+measurable performance indicators;
+the timing and frequency of monitoring to detect changes in the performance indicators;
+trigger values for corrective actions; and
+proposed corrective actions, if trigger values are reached.27/02/2019055. The approval holder must provide GIS shapefiles for the Offset Site before commencing the action. The files must be Geographics using the GDA94 coordinate system, and must include the relevant ‘.shp’, ‘.shx’, ‘.dbf’, and ‘.prj’ files, unless the Department requests the shapefiles be provided in another format. The approval holder must comply with any such request.27/02/2019There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
+
