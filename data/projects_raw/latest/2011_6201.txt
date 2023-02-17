@@ -1,39 +1,5 @@
 
 
-Watermark Coal Project
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending09Auditing and reporting
-9. The approval holder must provide the Department with details of each offset area, including written evidence that a protection mechanism is in place, offset attributes, shapefiles, textual descriptions and maps to clearly define the location and boundaries of each offset area within 30 calendar days of securing each offset area in accordance with NSW consent condition 33 (Schedule 3).4/07/2015There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

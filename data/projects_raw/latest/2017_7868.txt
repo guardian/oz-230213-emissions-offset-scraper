@@ -1,59 +1,5 @@
 
 
-Olive Downs Project Water Pipeline
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-Offset Name
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending02Environmental Offset Requirements
-2. To compensate for the clearance of listed threatened species habitat as specified in condition 1, the approval holder must provide an environmental offset consistent with the Environmental Offsets Policy.14/04/2020033. The approval holder must submit an Offset Area Management Plan (OAMP) prepared by a suitably qualified ecologist for the written approval of the Minister. The approval holder must not commence the action until the OAMP has been approved in writing by the Minister. The approved OAMP must be implemented.14/04/2020044. The OAMP must include the following information for the offsets required to compensate for the clearance of listed threatened species habitat as provided for in condition 1 in accordance with the principles of the Environmental Offsets Policy:
-
-a description of the offset, including location, size, condition, environmental values present and surrounding land uses;
-baseline data, including results from field validation surveys, and quantifiable ecological data on habitat quality and other supporting evidence that documents the presence of each listed threatened species and the quality of each listed threatened species habitat within the offset area;
-an assessment of site habitat quality using a method agreed to in writing by the Department;
-details of how the offset area will provide connectivity with other habitats and biodiversity corridors and/or will contribute to a larger strategic offset for each listed threatened species;
-maps and shapefiles to clearly define the location and boundaries of the offset area, accompanied by offset attributes;
-specific offset completion criteria derived from the site habitat quality to demonstrate the improvement in the quality of each listed threatened species habitat in the offset area over the period of effect of this approval;
-details of the management actions, and timeframes for implementation, to be carried out to meet the offset completion criteria;
-interim milestones that set targets at 5-yearly intervals for progress towards achieving the offset completion criteria;
-details of the nature, timing and frequency of monitoring to inform progress against achieving the 5-yearly interim milestones (the frequency of monitoring must be sufficient to track progress towards each set of milestones, and sufficient to determine whether the offset area is likely to achieve those milestones in adequate time to implement all necessary corrective actions);
-proposed timing for the submission of monitoring reports which provide evidence demonstrating whether the interim milestones have been achieved;
-timing for the implementation of corrective actions if monitoring activities indicate the interim milestones will not or have not been achieved;
-a risk analysis and a risk management and mitigation strategy for all risks to the successful implementation of the OAMP and timely achievement of the offset completion criteria, including a rating of all initial and post-mitigation residual risks in accordance with the risk assessment matrix;
-evidence of how the management actions and corrective actions take into account relevant approved conservation advices and are consistent with relevant recovery plans and threat abatement plans; and
-details of the legal mechanism for legally securing the offset area, such that legal security remains in force over the offset area for at least the period of effect of this approval.14/04/202005Legal Securing of Environmental Offset 
-5. The approval holder must legally secure the environmental offset within 12 months from the date that the OAMP is approved by the Minister in writing. The approved OAMP must be attached to the legal mechanism used to legally secure the offset area.14/04/2020066. The approval holder must notify the Department within 5 business days of the legal mechanism being executed.14/04/2020077. The legal mechanism used to legally secure the offset area must remain in force for the period of effect of this approval.14/04/2020There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

@@ -1,55 +1,5 @@
 
 
-Conversion from Continuous Miner Operation to Longwall Miner Operation
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending1414. In order to mitigate impacts on EPBC Act listed threatened species and communities, the person taking the action must:
-
-Develop and implement an active monitoring and management plan for the property mentioned in 2(a) for a period of 20 years to enhance White Box Grassy Woodland on the site as it provides habitat for the EPBC listed Superb parrot. The active management plan must include:
-
-Management actions, including but not limited to, rehabilitation and restoration measures, pest management, fencing, weed control, fire management, sediment and erosion control, exclusion of livestock and restrictions of access.
-Details of who is responsible for monitoring, reviewing and implementing the plan.
-
-
-Develop and implement an active monitoring and management plan for the site mentioned in (2b) for a period of 20 years to enhance Red Ironbark-Brown Bloodwood Shrubby Woodland which provides habitat for EPBC listed Bertya opponens and for the White Box Grassy Woodland which provides habitat for the EPBC listed Superb Parrot. The active management plan must include:
-
-Management actions, including but not limited to, land rehabilitation and restoration measures, pest management, fencing, weed control, fire management, sediment and erosion control, exclusion of livestock and restrictions of access.
-Details of who is responsible for monitoring, reviewing and implementing the plan.
-
-
-Clearly define boundaries of the property mentioned in 2(a), through maps and textual descriptions as well as an accompanying Shapefile.
-Clearly define boundaries of the 422 hectare property mentioned in 2(b), through maps and textual descriptions as well as an accompanying Shapefile.
-
-The final Biodiversity Offset Strategy must be submitted to the Minister for approval by 31 December 2014. The approved strategy must be implemented.8/12/2016There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

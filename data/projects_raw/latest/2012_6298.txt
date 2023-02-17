@@ -1,54 +1,5 @@
 
 
-Subdivision of land for Industrial and Commercial Office use
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-Offset Name
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending12Offsets
-12. At least two months prior to commencement of construction, the person taking the action must prepare and submit to the Minister for approval, an offset management plan. The offset management plan must be approved by the Minister and then implemented before commencement of construction. At a minimum, the plan must include:
-
-commitments that the person taking the action will offset the impacts to the critically endangered Golden Sun Moth (Synemon plana) with the protection of at least 20 hectares of land at the Birregurra property and at least 160 hectares of land at the Ninyuenook Road property;
-base line data and other supporting evidence that demonstrates both proposed offset sites contain a viable (breeding) Golden Sun Moth population;
-detailed information about the Golden Sun Moth population at each proposed offset site;
-illustrations and maps that clearly define the location and boundaries of the offset sites. This must be accompanied with the offset attributes and a shapefile for each offset site;
-detailed information, including proposed commitments and timelines regarding management arrangements that will be undertaken at each offset site, as soon as it is purchased and then into the future to ensure the ongoing rehabilitation and improvement of each site. This should include all recommended habitat management measures identified in EPBC Act policy statements and papers;
-commitments that demonstrate how the offset sites will be protected in perpetuity (i.e. Trust for Nature covenant);
-information and commitments about monitoring and reporting on the improvements in habitat condition of the offset site and the status of the Golden Sun Moth population; and
-information that demonstrates the proposed offset sites are consistent with the principles of the EPBC Act Environmental Offsets Policy (October 2012).
-
- Note: A single offset plan may be provided for both properties on the basis that (b) to (h) above are discussed separately for each property.29/04/2013There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

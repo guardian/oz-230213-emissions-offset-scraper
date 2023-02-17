@@ -16,6 +16,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 
 chrome_options = Options()
 # chrome_options.add_argument("--headless")
@@ -48,29 +49,33 @@ if today_os_format not in folds:
 
 new_out_path = f"{out_path}/{today_os_format}"
 
-
 # %%
 
 driver.get(urlo)
 
-time.sleep(15)
+# time.sleep(15)
 
 # %%
 
 ### Reverse the date order 
+WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR, '[aria-label="Project Approval Date"]'))) 
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
 rand_delay(10)
 print("Reverse order clicko")
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
 print("Reverse order clicko")
 
-# for nummer in range(1, 5):
+# for nummer in range(1, 10):
 for nummer in range(1, 132):
-    time.sleep(5)
+    # time.sleep(5)
+
+    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
 
     if f"{nummer}.csv" not in os.listdir(new_out_path):
 
-        time.sleep(15)
+        # time.sleep(15)
+
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
 
         sauce = driver.page_source
 
@@ -138,7 +143,7 @@ for nummer in range(1, 132):
             dumper(f"{new_out_path}", f"{nummer}", tabs)
 
 
-            pp(tabs)
+            # pp(tabs)
 
             print(f"Just finished {nummer}...")
 
@@ -158,6 +163,7 @@ for nummer in range(1, 132):
     
 ### Selecting the button based on the link text value (the page number)    
     
+    rand_delay(10)
     button_num = nummer + 1
     button = driver.find_element(By.LINK_TEXT, f"{button_num}").click()
     # button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Next page"]').click()

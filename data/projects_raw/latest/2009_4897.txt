@@ -1,55 +1,5 @@
 
 
-Upgrade of approx 32km of Main Northern Railway, including construction of 3rd track
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-Offset Name
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending02Biodiversity Management and Offsets
-2. The person taking the action must submit a Biodiversity Management and Offset Plan to address impacts on listed threatened species and ecological communities to the Minister for approval prior to clearing of any native vegetation. The Biodiversity Management and Offset Plan must include the following:
-
-mapping showing the location of all New South Wales and EPBC listed threatened species and ecological communities in the project area and estimates of the extent of habitat that will be impacted by the project;
-explain how the extent and condition of habitat for threatened species and ecological communities was determined;
-a proposal or strategy for the conservation of land, the extent and condition of which has been determined to be greater than or equal to that needed to offset the impacts of the proposal using the NSW Biodiversity Banking and Offsets Scheme methodology;
-the land referred to in 2(c) must contain at least 12 hectares of occupied habitat for the Slaty Red Gum (Eucalyptus glaucina). This must include re-establishment of 6 ha to increase the area of occupancy of the species in locations of known degraded habitat, however, that re-establishment may only occur in locations where experts have definitively determined that the species are known to occur;
-the land referred to in 2(c) must contain critical foraging habitat for the Grey-headed Flying fox (Pteropus poliocephalus) to compensate for habitat removed, the extent and condition of which will be determined by the retirement of ecosystem credits calculated with the NSW Biodiversity Banking and Offsets Scheme methodology;
-the land referred to in condition 2(c) must be located within 100 km of the proposed Maitland to Minimbah Third Track project site, unless it can be demonstrated, to the satisfaction of the Minister, that this is not feasible;
-the land referred to in condition 2(c) must be protected by a legal instrument under relevant nature conservation legislation, to ensure that the land is conserved in perpetuity;
-measures to manage and protect in perpetuity any land offset, including a description of how weed management and rehabilitation of native vegetation, threatened species habitat and threatened ecological communities will be undertaken and funded in the long-term; and
-Timeframes for the completion of all actions outlined in the plan, including the acquisition of land to be used as the offset and staging of the delivery of the offset.
-
-If the project is undertaken in a staged manner, the plan must be updated at least 6 months before the expected date for the beginning of construction for that later stage. With the exception of the land required under condition 2(d), the area of land identified to offset each stage must be commensurate with the impact of that stage as required under condition 2 c). Operation of a constructed stage of the rail line may not commence unless the plan addressing that stage has been implemented.8/03/2011There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

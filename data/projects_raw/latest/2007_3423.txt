@@ -1,51 +1,5 @@
 
 
-Stage 3 expansion of New Acland Coal Mine
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-Offset Name
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending03Adaptive Management and Offsets
-3. The approval holder must provide environmental offsets for the impact to 70.8 hectares of Belson’s Panic (Homopholis belsonii).18/01/2017044. The approval holder must prepare and submit an Offset Management Plan for the written approval of the Minister. The action must not commence until the Offset Management Plan has been approved by the Minister in writing. The approved Offset Management Plan must be implemented. The Offset Management Plan must include:
-i. a survey and description of the current condition (before any management activities) of each offset area proposed, including existing vegetation (the baseline condition). This must include a shapefile of each offset property boundary;
-ii. information about how the offset areas provide connectivity with other relevant habitats and biodiversity corridors, including a map depicting the offset areas in relation to other habitats and biodiversity corridors;
-iii. performance and completion criteria for evaluating the management of the offset area, and criteria for triggering remedial action (if necessary), including any impacts to the offset area/s associated with altered hydrogeology as a result of the action;
-iv. a description of the management measures that will be implemented for the protection of Belson’s Panic, including a discussion of how measures outlined take into account the approved conservation advice for Homopholis belsonii;
-v. a program to monitor and report on the effectiveness of these measures, and progress against the performance and completion criteria;
-vi. a description of potential risks to the successful implementation of the plan, and a description of the contingency measures that would be implemented to mitigate against these risks;
-vii. a timeline for when actions identified in the Offset Management Plan will be implemented for the offset area/s; and
-viii. the proposed legal mechanism for securing the offset area/s.18/01/2017055. The approval holder must register and legally secure, in accordance with Queensland legislation, offsets for authorised unavoidable impacts to Belson’s Panic within two years of the commencement of the action.18/01/2017066. The approval holder must ensure that environmental offsets comply with the principles of the EPBC Act Environmental Offsets Policy (2012).18/01/2017There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

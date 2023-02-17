@@ -25,6 +25,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 
 chrome_options = Options()
 # chrome_options.add_argument("--headless")
@@ -43,7 +44,7 @@ os.chdir(full_path)
 
 folds = os.listdir(out_path)
 
-print("folds: ", folds)
+# print("folds: ", folds)
 
 if today_os_format not in folds:
     os.mkdir(f"{out_path}/{today_os_format}")
@@ -119,25 +120,34 @@ for index,row in df.iterrows():
 
         driver.get(urlo)
 
-        time.sleep(5)
+        # time.sleep(10)
+
+        # print("Start")
+        # start = time.process_time()
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="customTab"]/li[2]/a')))
+        # print("That took: ", time.process_time() - start)
 
         driver.find_element(By.XPATH, '//*[@id="customTab"]/li[2]/a').click()
 
         # print("Clicko")
 
-        time.sleep(5)
+        # time.sleep(5)
 
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
+        rand_delay(5)
         sauce = driver.page_source
 
         soup = bs(sauce, 'html.parser')
 
-        content = soup.find_all(id='mainContent')
+        # content = soup.find_all(id='mainContent')
+        content = soup.find_all(attrs={'data-name':'tab_2_section_1'})
 
         content = [x.text for x in content]
 
         for x in content:
             texto += '\n\n'
             texto += x.strip()
+            # print(x.strip())
             texto += '\n\n'   
 
         dump_text(texto, 'data/projects_raw/latest', nummer)
@@ -203,7 +213,7 @@ for index,row in df.iterrows():
         donezo = len(os.listdir(f'data/projects_raw/backup/{today_os_format}'))
         if donezo % 20 == 0:
             print(f"{donezo}/{len(df)}")
-        rand_delay(3)
+        rand_delay(10)
 
 # %%
 

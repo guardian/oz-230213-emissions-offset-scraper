@@ -1,55 +1,5 @@
 
 
-Development of cabin, camping and possible hotel accomodation
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending011. To offset impacts on the Striped Legless Lizard (Delma impar), the person taking the action must develop an offset strategy, to be approved by the Minister, that protects habitat for the species in perpetuity. The proposed offset strategy must include measures to:
-
-protect habitat for the Striped Legless Lizard:
-
-at a ratio of approximately 3:1 for habitat to be removed, which adjoins an existing conservation reserve in north Canberra that is known to contain habitat for the species; or
-at a ratio of approximately 4:1 for habitat to be removed, if the offset area does not adjoin an existing conservation reserve in north Canberra that is known to contain habitat for the species. As part of the proposed offset package, the person taking the action must also: 
-
-
-provide the department with a textual description and map to clearly define the location and boundaries of the offset area, including the offset attributes, a shapefile and spatial data about its proximity to Striped Legless Lizard habitat within an existing conservation reserve;
-outline the process and timing for incorporating the offset area into a conservation reserve; and
-prepare a plan, in consultation with a relevant qualified species expert, to:
-
-manage the offset area as habitat for the Striped Legless Lizard; and
-monitor the Striped Legless Lizard population within the offset area.
-
-
-
-Prior to commencement of the proposed action, the proposed offset strategy must be submitted to the Minister for written approval. The approved offset strategy must be implemented.19/12/2011There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

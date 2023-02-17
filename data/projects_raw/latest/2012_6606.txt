@@ -1,51 +1,5 @@
 
 
-Hotel and Carpark Development
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending033. By the end of February each year, the approval holder must provide the department with a report, prepared by a suitably qualified expert, providing and assessing the monitoring data for the previous twelve (12) months against the baseline conditions as defined under Condition 2e), and concluding whether or not there has been a decline in the population of golden sun moth within the area of York Park shaded as a result of the action. This assessment may take into account regional population trends and local ecological conditions.
-Note: This condition operates subject to Condition 5.4/10/2013044. If on the basis of the reports required by Condition 3 above, the department considers that declines in the population of golden sun moth within the area of York Park shaded as a result of the action, have occurred for three (3) consecutive years, then the approval holder may be required to engage a suitably qualified expert to prepare a Biodiversity Offset Strategy (BOS). The BOS must identify an offset based on another specified population of golden sun moth within the Eastern Highlands bioregion, consistent with the department's offset policy, detailing the following:
-
-the location of the specified population using a map and shapefiles describing offset attributes;
-management measures to maintain or improve habitat quality for the specified population;
-if not already in place, appropriate legal measures to acquire and / or provide enduring protection for the specified population from future development;
-details of an ongoing annual monitoring program to determine whether the management measures required under Condition 4b) are at least maintaining habitat quality at the offset site against defined baseline parameters;
-contingency measures should the monitoring required under Condition 4d) determine that habitat quality is not being maintained;
-administrative arrangements including funding, timeframes, roles and responsibilities; and
-how the proposal effectively offsets the ecological, historic and scientific values of the population of golden sun moth at York Park.
-
-The BOS must be submitted to the minister for approval within three (3) months of a request from the department. Implementation must commence once the BOS is approved, with the population being legally secured (if relevant) within 12 months of approval of the BOS.
-Note: Where there is any doubt, the department will generally take the view that health / density of a golden sun moth population is the best measure of the "quality" of its habitat. 
-Note: This condition operates subjectto Condition 5.4/10/2013There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

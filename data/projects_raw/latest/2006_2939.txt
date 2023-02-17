@@ -1,58 +1,5 @@
 
 
-Construction of Marina Facility
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending19Environmental Offsets
-19. The approval holder must prepare an offset plan to address significant residual impacts to MNES. Impacts to MNES that must be offset include:
-
-The loss of 17.1 ha of seagrass and potential seagrass habitat, or an area otherwise agreed to in writing by the Minister following reporting required under condition 17;
-the loss of 0.94 ha of terrestrial habitat for Proserpine Rock-wallaby and Northern Quoll;
-road-strike injury and mortality of the Proserpine Rock-wallaby;
-boat strike injury and mortality of EPBC listed marine species; and
-additional impacts to the outstanding universal value of the Great Barrier Reef World Heritage Area (GBRWHA) arising from the construction and operation of the Shute Harbour Marina including, but not limited to, water quality impacts, visual amenity impacts and impacts to habitats within the GBRWHA.9/01/20142020. The offset plan must include, but is not necessarily limited to:
-
-a detailed description of all affected values and the extent and likely timing of the impact/s on each;
-detailed descriptions of how enhanced conservation outcomes for the affected MNES will be achieved in accordance with the EPBC Act Environmental Offsets Policy 2012, or as otherwise approved in writing by the Minister;
-detailed costings for the measures that will be implemented to achieve these outcomes;
-timeframes and key milestones for implementation of offsets including, but not limited to, beginning to implement the offset plan prior to commencement of construction;
-discussion of the risks and uncertainties associated with proposed offsets;
-mechanisms for monitoring and reporting of offset milestones and outcomes, including timing and frequency of monitoring and reporting;
-legally binding mechanisms to ensure that offsets are maintained, protected and managed for the duration of the impacts;
-provisions and measures to ensure that actions taken to conserve, manage and protect MNES have no detrimental impact on the habitat and populations of other EPBC Act listed threatened species and ecological communities or migratory species that are identified as occurring at the offset site;
-corrective actions and contingency measures to be implemented (including the timing of implementation of these) where monitoring of the offset area/s under the offset plan shows that offset strategies are not effectively achieving a net benefit or key milestones are not being or are unlikely to be met;
-corrective actions and contingency measures to be implemented (including the timing of implementation of these) where monitoring of seagrass within 500m of the project site as required under condition 18 shows that seagrass beyond the marina boundary may have been impacted by the construction and/or operation of Shute Harbour Marina;
-the offset delivery mechanism(s) comprising one or more of: land-based offsets; direct benefit management plans; and/or offset payments; and
-include textual descriptions and maps clearly defining the locations and boundaries of offset areas. These must be accompanied by a GIS Shapefile.9/01/20142121. The offset plan must be developed in consultation with the Department, Great Barrier Reef Marine Park Authority and other relevant stakeholders.9/01/20142222. The approval holder must give consideration to how offset funds will contribute to programs or incentives that align with the broader strategies and programs for the conservation and protection of the Great Barrier Reef including, but not limited to, Reef Trust 2050.9/01/20142323. The proposed offset plan must be approved by the Minister prior to commencement of construction.9/01/20142424. The offset plan must be implemented prior to commencement of construction, or as otherwise directed in writing by the Minister.9/01/2014There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

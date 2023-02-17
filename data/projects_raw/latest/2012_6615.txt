@@ -1,58 +1,5 @@
 
 
-Santos GLNG Gas Field Development Project, QLD
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending11Offsets
-11. The approval holder must ensure that environmental offsets comply with the principles of the EPBC Act Environmental Offsets Policy.22/03/20161212. The approval holder may carry out the action in project phases. The approval holder must deliver environmental offsets for residual significant impacts to protected matters for each project phase.28/04/20211313. The approval holder must submit an Offset Management Plan for the Minister’s written approval. The Offset Management Plan may be prepared and submitted to the Minister for written approval in stages. If the approval holder submits the Offset Management Plan in stages, each version of the Offset Management Plan must address the known and predicted impacts of the completed, current, and next proposed project phases.28/04/20211414. The Offset Management Plan must include for the first project phase:
-
-a method for assessing residual significant impacts to EPBC threatened species, EPBC migratory species and EPBC communities;
-results from pre-disturbance surveys and/or an alternative approved methodology (if used) for the project phase as required under conditions 4 and 5;
-details of the offset areas required to address predicted residual significant impacts to EPBC threatened species, EPBC migratory species and EPBC communities for the project phase;
-a survey and description of the current condition (prior to any management activities) of each offset area proposed, including existing vegetation (the baseline condition). This must include a shapefile of each offset property boundary;
-information about how the offset areas provide connectivity with other relevant habitats and biodiversity corridors, including a map depicting the offset areas in relation to other habitats and biodiversity corridors;
-performance and completion criteria for evaluating the management of the offset area, and criteria for triggering remedial action (if necessary);
-a description of the management measures that will be implemented for the protection of EPBC threatened species, EPBC migratory species and EPBC communities, including a discussion of how measures outlined take into account relevant conservation advice and are consistent with the measures in relevant recovery plans and threat abatement plans;
-a program to monitor and report on the effectiveness of these measures, and progress against the performance and completion criteria;
-a description of potential risks to the successful implementation of the plan, and a description of the contingency measures that would be implemented to mitigate against these risks;
-a timeline for when actions identified in the Offset Management Plan will be implemented for each offset area; and
-the proposed legal mechanism and timing for legally securing the offset.28/04/20211515. The currently approved Offset Management Plan must be implemented by the approval holder.28/04/20211616. The approval holder must register and legally secure offsets for the first project phase identified in the Offset Management Plan within two years of commencement of the first project phase.14/12/20181717. The approval holder must register and legally secure offsets for a project phase which are sufficient to acquit the predicted residual significant impacts of that project phase.28/04/202118
-If the approval holder submits the Offset Management Plan in stages, the approval holder must prepare and submit the Offset Management Plan revised to address each subsequent project phase, for written approval by the Minister. Each revised Offset Management Plan must:
-
-
-include the information required for the Offset Management Plan at condition 14 for the next project phase;
-include a reconciliation of actual and predicted but yet to be actualised residual significant impacts to EPBC threatened species, EPBC migratory species and EPBC communities against offsets secured for the commenced project phases. Secured offsets in excess of requirements arising from actual and predicted but yet to be actualised impacts of any commenced project phases may be subtracted from the obligations required for subsequent project phases. Any shortfall in secured offsets relative to the requirements arising from actual and predicted but yet to be actualised impacts of any commenced project phases must be added to the obligations required for the next project phase; and 
-demonstrate how the offset builds on offsets already secured for previous project phases and will contribute to a larger strategic offset for cumulative project impacts.
-28/04/20211919. The approval holder must not commence the project phase until the Offset Management Plan for that project phase has been approved by the Minister in writing.28/04/2021There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

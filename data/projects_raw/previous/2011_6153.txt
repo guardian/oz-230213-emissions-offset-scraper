@@ -24,10 +24,6 @@ SummaryOffset SitesOffset Conditions
 
 
 
-Offset Name
-
-
-
 
 
 

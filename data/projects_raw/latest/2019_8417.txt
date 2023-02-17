@@ -1,41 +1,5 @@
 
 
-Commercial Development, 210 Swann Drive, Derrimut, Vic
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending02Prior to the commencement of the action, to compensate for the loss of up to 2.444 ha of NTGVVP and 2.444 ha of Striped Legless Lizard habitat, the approval holder must control the offset area, must provide the Department with written evidence of the approval holder's effective management authority over the offset area, and must implement the offset management plan at the offset area. The approval holder must continue to implement the offset management plan until the approval expires.23/10/201903Within 5 months of the date of approval, the approval holder must secure the offset area.23/10/201904Within 10 business days of the offset area being secured, the approval holder must provide the Department with:
-
-written evidence demonstrating that the offset area has been secured; and
-shapefiles containing the offset attributes.23/10/2019There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 
