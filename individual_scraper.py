@@ -213,7 +213,7 @@ for index,row in df.iterrows():
             duff = difflib.ndiff(old.splitlines(), texto.splitlines())
             dufference = '\n'.join(list(duff))
 
-            dump_text(dufference, f'data/projects_raw/differences/', f"{today_os_format}_{nummer}")
+            dump_text(dufference, f'data/projects_raw/differences', f"{today_os_format}_{nummer}")
 
 
 
