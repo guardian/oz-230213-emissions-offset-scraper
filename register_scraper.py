@@ -196,6 +196,3 @@ for nummer in range(1, rangeo):
 
 driver.quit()
 
-
-
-python -m pip install 'sudulunu @ git+https://github.com/django/django@80d38de52bb2721a7b44fce4057bcff571afc23a'
