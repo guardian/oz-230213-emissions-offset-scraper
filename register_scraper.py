@@ -6,7 +6,7 @@ import time
 
 from bs4 import BeautifulSoup as bs 
 
-from dates import today_os_format, today_use_date, today
+from dates import today_os_format, today_use_date, today, day_of_week
 
 # %%
 ### Setup selenium
@@ -65,9 +65,18 @@ print("Reverse order clicko")
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
 print("Reverse order clicko")
 
-for nummer in range(1, 10):
+
+rangeo = 11
+
+if day_of_week == 5:
+    rangeo = 131
+
+
+# for nummer in range(1, 10):
 # for nummer in range(1, 131):
     # time.sleep(5)
+
+for nummer in range(1, rangeo):
 
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
 

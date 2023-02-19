@@ -9,3 +9,7 @@ import combiner
 rand_delay(5)
 
 import individual_scraper
+
+rand_delay(5)
+
+import cleanup_old
