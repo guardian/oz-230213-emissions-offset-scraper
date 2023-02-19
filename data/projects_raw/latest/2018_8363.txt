@@ -1,38 +1,5 @@
 
 
-Snowy 2.0 transmission connection project, NSW
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending07To offset the impacts of the Action on protected matters, the approval holder must implement conditions B18, B19 and B20 of the State Infrastructure Approval.08The approval holder must notify the department in writing within 10 business days of making a biodiversity offset payment to the NSW National Parks and Wildlife Service. Each notification must state the date of payment, the amount paid, and the component of the biodiversity offset obligations in respect of which the payment is made.There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

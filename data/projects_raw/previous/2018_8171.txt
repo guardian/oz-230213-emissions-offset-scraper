@@ -1,56 +1,5 @@
 
 
-Grasstree Extension Project
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending04Offset Management Plan
-The approval holder must submit an Offset Management Plan for the written approval of the Minister at least three (3) months prior to any likely impact of the action on EPBC Act listed threatened species. The approved Offset Management Plan must be implemented. The Offset Management Plan must be prepared by a suitably qualified person in accordance with the Department's Environmental Management Plan Guidelines and include:
-a. details of environmental offset/s to compensate for the EPBC Act listed threatened species habitat to be impacted as identified in condition 2;
-b. a description of the condition of the habitat to be impacted for the EPBC Act listed threatened species habitat as identified in condition 2;
-c. details of how the proposed environmental offset/s and Offset Management Plan meet the requirements of the EPBC Act Environmental Offsets Policy;
-d. a field validation survey and baseline description ofthe current condition (prior to any management activities) of the offset area/s, including existing vegetation;
-e. a description and map (including shapefiles) to clearly define the location and boundaries of the proposed offset area/s, accompanied by the offset attributes;
-f. information about how the proposed offset area/s provide connectivity with other relevant habitats and biodiversity corridors;
-g. a description of the management measures (including timing, frequency and duration) that will be implemented in each proposed offset area/s;
-h. a discussion of how proposed management measures take into account relevant approved conservation advices and are consistent with the measures contained in relevant recovery plans and threat abatement plans;
-i. completion criteria and performance targets for evaluating the effectiveness of the Offset Management Plan implementation, and criteria for triggering corrective actions;
-j. a program to monitor, report on and review the effectiveness of the Offset Management Plan;
-k. a description of potential risks to the successful implementation of the environmental offset/s, and contingency measures that would be implemented to mitigate against these risks; and
-l. details of the mechanism to legally secure the environmental offset/s.5/02/201905The approval holder must legally secure the environmental offset/s described in the Offset Management Plan within two (2) years from the commencement of the action.5/02/201911Preparation and publication of the Offset Management Plan 
-The approval holder must:
-a. submit the Offset Management Plan electronically to the Department for the written approval by the Minister;
-b. publish the Offset Management Plan on its website within 20 business days of the date the Offset Management Plan is approved by the Minister or of the date a revised Offset Management Plan is submitted to the Minister, unless otherwise agreed to in writing by the Minister;
-c. exclude or redact sensitive ecological data from the Offset Management Plan published on its website or provided to a member of the public; and
-d. keep the Offset Management Plan published on its website until the end date of this approval.5/02/2019There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

@@ -1,57 +1,5 @@
 
 
-Bolinda Road development, Campbellfield, Victoria
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending10Prior to commencement of the action the Offset Area must be secured through a section 173 or section 69 agreement under the Victorian Planning and Environment Act 1987, or alternatively through a Trust for Nature covenant under the Victorian Conservation Trust Act 1972.8/03/202211If the action is secured through a section 173 agreement under the Victorian Planning and Environment Act 1987 prior to the commencement of the action, the approval holder must register on the relevant title/s a section 69 agreement under the Victorian Planning and Environment Act 1987 or a Trust for Nature covenant under the Victorian Conservation Trust Act 1972, within 24 months of the date of this approval decision. The Section 173 agreement, if applied, must remain in place until another form of protection identified in this condition is registered on the relevant title/s.
- 
-Note: if the action is secured through a section 69 agreement under the Victorian Planning and Environment Act 1987, or Trust for Nature covenant under the Victorian Conservation Trust Act 1972, this must remain in place for the life of the approval.8/03/202212Within 10 business days of the Offset Area being secured in accordance with condition 10 and/or 11, the approval holder must provide the department with:
-
-written evidence demonstrating the entire Offset Area has been secured; and
-shapefiles and offset attributes for the Offset Area.8/03/202213If the Minister is not satisfied that a viable population of the Growling Grass Frog has been maintained in the Offset Area, the Minister may (in writing) require the approval holder to submit a new plan or program (including additional surveys) for the Minister’s approval to reduce, mitigate, remediate, or offset for impacts to the Growling Grass Frog. If the Minister approves the plan or program, the approved plan or program must be implemented.
-Note: to avoid doubt, any proposed offset measures must be additional to that required by the Growling Grass Frog Conservation Management Plan and Weed Management Plan.8/03/20223To compensate for impacts to Growling Grass Frog dispersal and foraging habitat and creating a physical barrier restricting Growling Grass Frog dispersal the approval holder must:
-
-implement the Growling Grass Frog Conservation Management Plan and Weed Management Plan;
-construct the Offset Areas as specified in the Landscape Design Plan;
-ensure the habitat enrichment activities at Offset Area 1 (Wetland), Offset Area 1 (Terrestrial) and Offset Area 4 are completed before the 1 September 2022;
-stage 1 of the action must not commence during the Growling Grass Frog Breeding Season. If the habitat enrichment activities at Offset Area 1 (Wetland), Offset Area 1 (Terrestrial) and Offset Area 4 are not completed within the timeframe specified by condition 3(c) then all construction activity must cease until they are completed;
-a suitably qualified person must be onsite during stage 1 of the action to facilitate the translocation of any GGF within stage 1, to Offset Area 1 (Wetland), Offset Area 1 (Terrestrial) or Offset Area 4;
-ensure the habitat enrichment activities at Offset Area 2 and Offset Area 3 are completed within 24 months of the date of this approval decision;
-ensure Offset Area 2 maintains a minimum operating depth of 1.5 m over 50% of the total wetland surface area during the Growling Grass Frog breeding season.8/03/20224To ensure a viable population of the Growling Grass Frog persists within the project area the approval holder must;
-
-measure and submit to the department, within three months of the date of this approval decision, detailed advice in writing of the pre-construction water level.
-not pump more than 20 000 litres of water from Offset Area 1 (Wetland) in any period of seven consecutive days.
-immediately stop any removal of water from Offset Area 1 (Wetland) if the water level at Offset Area 1 (Wetland) is more than one metre below the pre-construction water level.
-not commence the action unless the approval holder has submitted to the department the background condition of Offset Area 1 (Wetland) to inform the water quality thresholds outlined in the Growling Grass Frog Conservation Management Plan.8/03/20225Upon commencement of stage two to eight of the action, temporary fencing as outlined in the GGFCMP must not restrict the Growling Grass Frog within Offset Area 1 (Wetland), Offset Area 1 (Terrestrial) from accessing Offset Area 4.8/03/20226Water depth must continue to be monitored at Offset Area 2 until the completion of the 10 year population and habitat monitoring program outlined in the GGFCMP.8/03/20227If no tadpoles are found present with the offset areas in the first four years of population and habitat monitoring, then surveying for tadpoles must continue to be completed annually until the completion of the 10 year survey program required in the GGFCMP.8/03/2022There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

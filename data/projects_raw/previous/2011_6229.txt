@@ -1,59 +1,5 @@
 
 
-Moorebank Intermodal Terminal Facility
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending06Threatened Flora Offset Management Plan
-6. For the better protection of Nodding Geebung, Small-flower Grevillea (and potentially, Hibbertia sp. Bankstown and Bynoe's Wattle pending the outcome of conditions 3 and 4) the person taking the action must engage a suitably qualified expert to prepare a Threatened Flora Offset Management Plan (TFOMP) (or plans) for the approval of the Minister. The TFOMP must include (but need not be limited to):
-
-details of a direct offset that satisfies the requirements of the Department's offset policy, in accordance with the offset user guide (including timeframes for the delivery or acquisition of the direct offset);
-map(s) and shapefiles that identify the location and boundaries of the direct offset;
-details of the management actions and performance objectives which will maintain and enhance the Nodding Geebung and Small-flower Grevillea habitat and/or population covered by the TFOMP (including the duration, intensity, and timing of management actions);
-an assessment of the baseline population and distribution for Nodding Geebung and Small-flower Grevillea within the direct offset, including:
-
-the number of plants protected and their location; and
-plant and habitat condition.
-
-
-measures for regular monitoring of the status of individuals of Nodding Geebung and Small-flower Grevillea and their habitat as measured against the baseline population and distribution, including:
-
-fluctuations in population size and distribution; and
-response to disturbances and/or management actions.
-
-
-provisions to revise the approved TFOMP in response to monitoring associated with condition 6(e);
-
-Native vegetation clearance must not occur until the TFOMP has been approved. The TFOMP must be implemented once approved.
-Should the action result in, or be likely to result in, residual impacts to Hibbertia sp. Bankstown or Bynoe's Wattle (as determined by the Minister), the TFOMP must also demonstrate how it meets the standards described in (a) to (f), for these two species.6/03/2014There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

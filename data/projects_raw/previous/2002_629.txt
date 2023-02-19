@@ -1,54 +1,5 @@
 
 
-Extending Existing operations at Warkworth Coal Mine
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending11. By no later than 31 July 2020, the person taking the action must register the Biodiversity Management Areas identified in the map at Attachment A under a legally secured offset mechanism. The mechanism must provide enduring protection of no less than
-
-1,586 ha of suitable habitats for Anthochaera Phrygia (regent honeyeater) and Lathamusdiscolor (swift parrot).
-
-Evidence of registration must be provided to the Department within 30 days of registration of the legally binding covenant.14/10/201822. To offset the impacts to the regent honeyeater and swift parrot, the person taking the action must submit to the Minister for approval an Offset Management Plan (OMP) for all of the Biodiversity Management Areas by no later than 13 April 2014.
-The OMP must include, but not be limited to, the following information:
-
-a textual description and map to clearly define the location and boundaries of all of the Biodiversity Management Areas. This must be accompanied with the offset attributes and a shapefile
-details of management actions to protect and enhance the extent and condition of habitat values of the offset areas including but not limited to rehabilitation, weed control, fire management, erosion and sediment control, management of livestock and restrictions on access of no less than 1,586 hectares of habitat for the regent honeyeater and swift parrot
-the timing, responsibilities and performance criteria for management actions 
-a monitoring plan including the undertaking of ecological surveys by a qualified ecologist to assess the success of the management actions against identified milestones and objectives
-a process to report, to the department, the management actions undertaken in the offset areas and the outcome of those actions, including identifying any need for improved management
-a description of the potential risks to successful management and rehabilitation in the offset areas, and a description of the contingency measures that would be implemented to mitigate these risks
-details of parties responsible for management, monitoring and implementing the plan, including their position or status as a separate contractor.
-
-The approved OMP must be implemented. The person taking the action must publish the approved OMP on their website within 1 month of the OMP being approved by the Minister. The approved OMP must remain published until the expiry of the approval or until such time as agreed in writing by the Minister.
-Note: For clarity, the Biodiversity Management Areas in condition 1 and identified on the map in Attachment A can accommodate offset requirements for more than one species habitat within the one area, if a qualified ecologist verifies that suitable habitat is present and includes specific habitat requirements for the relevant species.23/12/2013There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

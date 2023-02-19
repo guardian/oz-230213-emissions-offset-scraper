@@ -65,8 +65,8 @@ print("Reverse order clicko")
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
 print("Reverse order clicko")
 
-# for nummer in range(1, 10):
-for nummer in range(1, 132):
+for nummer in range(1, 10):
+# for nummer in range(1, 131):
     # time.sleep(5)
 
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
@@ -115,7 +115,7 @@ for nummer in range(1, 132):
         # 'Project Approval Date. sort descending', 'Project Approval Expiry Date. sort descending', 
         # 'Approval Holder. sort descending'
 
-        print(tabs.columns.tolist())
+        # print(tabs.columns.tolist())
 
         if len(tabs) >= 1:
 

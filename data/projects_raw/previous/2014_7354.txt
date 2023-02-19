@@ -1,46 +1,5 @@
 
 
-Construction of waste storage cells - Farm Stage 3, 4 and 5, Red Hill, WA
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending022. The approval holder must prepare and submit an Offset Management Plan (Plan), for the approval of the Minister, to offset the loss of black cockatoo habitat. The approval holder must not commence clearing unless the Minister has approved the Plan.
-The Plan must include, but is not limited to:
-i. an outline of how the 52.5 ha of black cockatoo habitat within the Offset Area will be revegetated
-ii. objectives, targets and completion criteria for the revegetation, including site preparation works, seedling planting program, success rates and details of replanting requirements, if success rates are not achieved
-iii. management measures including fencing, access controls and the control of Phytophthora cinnamomi (dieback) spread
-iv. timeframes and implementation for the above measures
-v. descriptions of the roles and responsibilities of personnel associated with implementation of each of the above measures
-vi. offset attributes and a shapefile.
-If the Minister approves the Plan then the approved Plan must be implemented.24/02/2016There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

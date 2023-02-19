@@ -1,54 +1,5 @@
 
 
-Gold Coast International Marine Precinct
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending18Environmental offsets
-18. The approval holder must prepare an offset plan to address significant residual impacts to MNES. Impacts to MNES that must be offset include:
-
-The loss of 1.37 ha of seagrass and potential seagrass habitat, or the area identified under condition 16, whichever is larger; and
-boat strike injury and mortality of EPBC listed marine species.5/02/20141919. The offset plan must include, but not be limited to:
-
-a detailed description of all affected values and the extent and likely timing of the impact/s on each;
-the offset delivery mechanism(s) comprising one or more of: land-based offsets; direct benefit management plans; and/or offset payments;
-detailed descriptions of how enhanced conservation outcomes for the affected MNES will be achieved in accordance with the EPBC Act Environmental Offsets Policy 2012, and the associated Offsets assessment guide;
-detailed costings for the measures that will be implemented to achieve these outcomes;
-timeframes and key milestones for implementation of offsets including, but not limited to, beginning to implement the offset plan prior to commencement of construction;
-discussion of the risks and uncertainties associated with proposed offsets;
-mechanisms for monitoring and reporting of offset milestones and outcomes, including timing and frequency of monitoring and reporting;
-legally binding mechanisms to ensure that offsets are maintained, protected and managed for the duration of the impacts;
-provisions and measures to ensure that actions taken to conserve, manage and protect MNES have no detrimental impact on the habitat and populations of other EPBC Act listed threatened species and ecological communities or migratory species that are identified as occurring at the offset site/s;
-corrective actions and contingency measures to be implemented (including the timing of implementation of these) where monitoring of the offset area/s under the offset plan shows that offset strategies are not effectively achieving a net benefit or key milestones are not being or are unlikely to be met; and
-include textual descriptions and maps clearly defining the locations and boundaries of offset areas. These must be accompanied by a GIS Shapefile.5/02/20142020. The offset plan must be developed in consultation with the Department and other relevant stakeholders.5/02/20142121. The approval holder must give consideration to how offsets will contribute to programs or incentives that align with the broader strategies and programs for the conservation and protection of MNES.5/02/20142222. The offset plan must be submitted to the Minister for approval no less than three months prior to its intended implementation. Once approved the offset plan must be implemented.5/02/2014There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

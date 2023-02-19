@@ -1,54 +1,5 @@
 
 
-Vegetation removal: transmission line & substation (Mt Mercer wind farm)
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending011. Within 15 months of the date of this approval, and prior to commencement of the action, the person taking the action must:
-
-enter into an agreement with the landowner under section 173 of the Planning and Environment Act 1987, to secure the Saxon Paddock Offset for the long-term protection of Natural Temperate Grassland of the Victorian Volcanic Plain and Golden Sun Moth population(s) and habitat. The department must be provided with a signed copy of the Agreement and evidence of lodgement with the Titles Office, within 2 weeks of lodgement; and
-ensure that the Agreement is registered on the title on which the Saxon Paddock Offset is located. The department must be provided with evidence of registration within 2 weeks of registration.11/09/2012022. Within 12 months of the date of this approval, the person taking the action must finalise and submit the Offset Management Plan to the department for the Minister's approval. The person taking the action must not commence the action unless the Minister has approved the Offset Management Plan. The Offset Management Plan must provide for the conservation and enhancement of Natural Temperate Grassland of the Victorian Volcanic Plain and Golden Sun Moth populations and habitat within the Saxon Paddock Offset, and must include:
-
-specific measures to:
-
-control weed species and pest animals;
-control access to the protected land;
-manage impacts of fire and grazing (acknowledging that such impacts may be positive or negative depending on circumstances);
-monitor the status and condition of the Natural Temperate Grassland of the Victorian Volcanic Plain and Golden Sun Moth population and habitat; and
-report the results of monitoring and management activities to the department;
-
-
-measures to ensure that actions taken to conserve and enhance the Natural Temperate Grassland of the Victorian Volcanic Plain and Golden Sun Moth population and habitat have no detrimental impact on the populations or habitat of other listed threatened species and communities that are identified as occurring on the protected land;
-corrective actions and contingency measures to be implemented where monitoring under the Offset Management Plan indicates a degradation of the Natural Temperate Grassland of the Victorian Volcanic Plain or Golden Sun Moth population or habitat; and
-a textual description and map to clearly define the location and boundaries of the Saxon Paddock Offset. This must be accompanied with the offset attributes and a shapefile.6/10/2011There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 

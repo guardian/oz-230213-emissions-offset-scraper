@@ -1,50 +1,5 @@
 
 
-Warkworth Mine Extension
-
-
-
-
-
-
-
-
-
-
-
-SummaryOffset SitesOffset Conditions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Under review.
 Site Id . sort ascendingSite Name. sort descendingSite Area (Ha). sort descendingActionsNo applicable sitesYou don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
-
-
-
-No. . sort ascendingDetails. sort descendingStart Date. sort descending022. To offset the impacts on the foraging habitat of the regent honeyeater and swift parrot, the person taking the action must submit to the Minister for approval an Offset Management Plan (OMP) for the Phase 1 Offset identified in Attachment A by no later than 13 April 2014.
-The OMP must include, but not be limited to the following:
-
-a textual description and map to clearly define the location and boundaries of all of the offset areas. This must be accompanied with the offset attributes and a shapefile
-details of management actions to protect and enhance the extent and condition of habitat values of the offset areas including but not limited to rehabilitation, weed control, fire management, erosion and sediment control, management of livestock and restrictions on access to habitat for the regent honeyeater and swift parrot
-the timing, responsibilities and performance criteria for management actions
-a monitoring plan including the undertaking of ecological surveys by a qualified ecologist to assess the success of the management actions against identified milestones and objectives
-a process to report, to the department, the management actions undertaken in the offset areas and the outcome of those actions, including identifying any need for improved management
-a description of the potential risks to successful management and rehabilitation in the offset areas, and a description of the contingency measures that would be implemented to mitigate these risks
-details of parties responsible for management, monitoring and implementing the plan, including their position or status as a separate contractor.
-
-The approved OMP must be implemented.
-Note: Offset areas can accommodate offset requirements for more than one species habitat within the one area, if a qualified ecologist verifies that suitable habitat is present and includes specific habitat requirements for the relevant species.23/12/2013There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Create×Close Edit×Close View details×Close Delete×CloseAre you sure you want to delete this record?DeleteCancel Error×CloseWe're sorry, an error has occurred.Close
 
