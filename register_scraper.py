@@ -32,9 +32,9 @@ out_path = 'data/register_raw'
 
 ### Set the current folder
 
-full_path = '/Users/josh_nicholas/Repos/oz-230213-emissions-offset-scraper/'
+# full_path = '/Users/josh_nicholas/Repos/oz-230213-emissions-offset-scraper/'
 
-os.chdir(full_path)
+# os.chdir(full_path)
 
 # %%
 
