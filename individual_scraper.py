@@ -1,5 +1,5 @@
 # %%
-from sudulunu.helpers import pp, make_num, dumper, rand_delay
+# from sudulunu.helpers import pp, make_num, dumper, rand_delay
 import pandas as pd 
 import os 
 import time 
@@ -11,6 +11,21 @@ from bs4 import BeautifulSoup as bs
 
 from dates import today_os_format, today_use_date, today
 # from dates import yest_os_format, yest_use_date
+
+# %%
+#### Import functions
+
+def dumper(path, name, frame):
+    with open(f'{path}/{name}.csv', 'w') as f:
+        frame.to_csv(f, index=False, header=True)
+
+def rand_delay(num):
+  import random 
+  import time 
+  rando = random.random() * num
+#   print(rando)
+  time.sleep(rando)
+
 
 # %%
 
