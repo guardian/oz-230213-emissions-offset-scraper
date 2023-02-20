@@ -9,6 +9,7 @@ from dates import today_os_format, today_use_date, today, day_of_week
 
 # today_use_date = '2023/02/19'
 
+print("#### Checking differences and sending email")
 
 # %%
 

@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup as bs
 
 from dates import today_os_format, today_use_date, today, day_of_week
 
+print("#### Scraping offsets register table")
 
 # %%
 #### Import functions
@@ -81,6 +82,8 @@ print("Reverse order clicko")
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
 print("Reverse order clicko")
 
+
+skipped = 0
 
 rangeo = 11
 
@@ -180,7 +183,8 @@ for nummer in range(1, rangeo):
 
         # rand_delay(5)
     else:
-        print("Skipped: ", nummer)
+        # print("Skipped table page ", nummer)
+        skipped += 1
 
 ### This was how I was selecting the next button before (xpath), however it doesn't remain consistent throughout
 
@@ -193,6 +197,8 @@ for nummer in range(1, rangeo):
     button = driver.find_element(By.LINK_TEXT, f"{button_num}").click()
     # button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Next page"]').click()
     # print("Clicko")
+
+print("Skipped: ", skipped)
 
 driver.quit()
 

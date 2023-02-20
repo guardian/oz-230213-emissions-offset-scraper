@@ -27,6 +27,8 @@ def rand_delay(num):
   time.sleep(rando)
 
 
+print("#### Scraping individual pages")
+
 # %%
 
 scraped_path = f'data/register_combined/combined.csv'
