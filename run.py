@@ -15,6 +15,7 @@ def rand_delay(num):
 #   print(rando)
   time.sleep(rando)
 
+# %%
 
 import register_scraper
 
