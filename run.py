@@ -34,3 +34,4 @@ from dates import day_of_week
 if day_of_week == 6:
     import cleanup_old
 
+import check_differences

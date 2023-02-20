@@ -5,9 +5,9 @@ import time
 
 from bs4 import BeautifulSoup as bs 
 
-# from dates import today_os_format, today_use_date, today, day_of_week
+from dates import today_os_format, today_use_date, today, day_of_week
 
-today_use_date = '2023/02/19'
+# today_use_date = '2023/02/19'
 
 
 # %%
@@ -53,7 +53,7 @@ if lenno > 0:
 
     texto = f"There were {lenno} changes to the offsets register today."
 
-    sendEmail(texto,"Offsets register changes", 'josh.nicholas@theguardian.com')
+    sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com'])
 
 # %%
 
