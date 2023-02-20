@@ -5,7 +5,7 @@ import os
 
 from dates import today_os_format, today_use_date, today
 
-print("#### Combining table into one")
+print("\n#### Combining table into one\n\n")
 
 # %%
 #### Import functions

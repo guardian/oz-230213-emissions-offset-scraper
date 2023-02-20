@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup as bs
 
 from dates import today_os_format, today_use_date, today, day_of_week
 
-print("#### Scraping offsets register table")
+print("\n#### Scraping offsets register table\n\n")
 
 # %%
 #### Import functions

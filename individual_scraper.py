@@ -27,7 +27,7 @@ def rand_delay(num):
   time.sleep(rando)
 
 
-print("#### Scraping individual pages")
+print("\n#### Scraping individual pages\n\n")
 
 # %%
 

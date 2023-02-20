@@ -9,7 +9,7 @@ from dates import today_os_format, today_use_date, today, day_of_week
 
 # today_use_date = '2023/02/19'
 
-print("#### Checking differences and sending email")
+print("\n#### Checking differences and sending email\n\n")
 
 # %%
 
@@ -54,7 +54,22 @@ if lenno > 0:
 
     texto = f"There were {lenno} changes to the offsets register today."
 
-    sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com'])
+    texto += '\n\n'
+
+    texto += "Here are the changes:\n"
+    texto += "\n\n"
+    for index,row in tods.iterrows():
+
+
+        urlo = row['Url']
+        nummer = row['EPBC Number']
+
+        texto += f"{nummer}: {urlo}\n"
+        texto += "\n"
+    
+    print(texto)
+
+    # sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com'])
 
 # %%
 
