@@ -127,8 +127,12 @@ for index,row in df.iterrows():
 
         old = ''
 
-        with open(f'data/projects_raw/latest/{nummer}.txt', 'r') as reader:
-            old = reader.read()
+        try:
+
+            with open(f'data/projects_raw/latest/{nummer}.txt', 'r') as reader:
+                old = reader.read()
+        except:
+            old = ''
 
         dump_text(old, f'data/projects_raw/previous', nummer)
 
