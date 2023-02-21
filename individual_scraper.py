@@ -17,7 +17,7 @@ import pathlib
 pathos = pathlib.Path(__file__).parent
 os.chdir(pathos)
 # print(pathos)
-print("Current path: ", os.getcwd())
+# print("Current path: ", os.getcwd())
 
 # %%
 #### Import functions
@@ -239,7 +239,7 @@ for index,row in df.iterrows():
 
         # print("Reivew", review)
         donezo = len(os.listdir(f'data/projects_raw/backup/{today_os_format}'))
-        if donezo % 20 == 0:
+        if donezo % 50 == 0:
             print(f"{donezo}/{len(df)}")
         rand_delay(10)
 

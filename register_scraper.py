@@ -78,9 +78,9 @@ driver.get(urlo)
 WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR, '[aria-label="Project Approval Date"]'))) 
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
 rand_delay(10)
-print("Reverse order clicko")
+# print("Reverse order clicko")
 button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Project Approval Date"]').click()
-print("Reverse order clicko")
+# print("Reverse order clicko")
 
 
 skipped = 0
@@ -173,7 +173,7 @@ for nummer in range(1, rangeo):
 
             # pp(tabs)
 
-            print(f"Just finished {nummer}...")
+            # print(f"Just finished {nummer}...")
 
             # driver.quit()
         
