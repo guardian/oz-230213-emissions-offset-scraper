@@ -13,234 +13,241 @@ from dates import today_os_format, today_use_date, today
 # from dates import yest_os_format, yest_use_date
 
 # %%
-#### Import functions
+import pathlib
+pathos = pathlib.Path(__file__).parent
+os.chdir(pathos)
+# print(pathos)
+print("Current path: ", os.getcwd())
 
-def dumper(path, name, frame):
-    with open(f'{path}/{name}.csv', 'w') as f:
-        frame.to_csv(f, index=False, header=True)
+# # %%
+# #### Import functions
 
-def rand_delay(num):
-  import random 
-  import time 
-  rando = random.random() * num
-#   print(rando)
-  time.sleep(rando)
+# def dumper(path, name, frame):
+#     with open(f'{path}/{name}.csv', 'w') as f:
+#         frame.to_csv(f, index=False, header=True)
 
+# def rand_delay(num):
+#   import random 
+#   import time 
+#   rando = random.random() * num
+# #   print(rando)
+#   time.sleep(rando)
 
-print("\n#### Scraping individual pages\n\n")
 
-# %%
+# print("\n#### Scraping individual pages\n\n")
 
-scraped_path = f'data/register_combined/combined.csv'
-out_path = 'data/projects_raw/backup'
+# # %%
 
-# %%
-### Setup selenium
+# scraped_path = f'data/register_combined/combined.csv'
+# out_path = f'data/projects_raw/backup'
 
-from selenium import webdriver 
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
+# # %%
+# ### Setup selenium
 
-chrome_options = Options()
-chrome_options.add_argument("--headless")
+# from selenium import webdriver 
+# from selenium.webdriver.firefox.options import Options
+# from selenium.webdriver.support.ui import Select
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
 
-driver = webdriver.Firefox(options=chrome_options)
+# chrome_options = Options()
+# chrome_options.add_argument("--headless")
 
-### Set the current folder
+# driver = webdriver.Firefox(options=chrome_options)
 
-# full_path = '/Users/josh_nicholas/Repos/oz-230213-emissions-offset-scraper/'
+# ### Set the current folder
 
-# os.chdir(full_path)
+# # full_path = '/Users/josh_nicholas/Repos/oz-230213-emissions-offset-scraper/'
 
-# %%
+# # os.chdir(full_path)
 
-### Check if a folder exists for the current date
+# # %%
 
-folds = os.listdir(out_path)
+# ### Check if a folder exists for the current date
 
-# print("folds: ", folds)
+# folds = os.listdir(out_path)
 
-if today_os_format not in folds:
-    os.mkdir(f"{out_path}/{today_os_format}")
+# # print("folds: ", folds)
 
-new_out_path = f"{out_path}/{today_os_format}"
+# if today_os_format not in folds:
+#     os.mkdir(f"{out_path}/{today_os_format}")
 
-# %%
+# new_out_path = f"{out_path}/{today_os_format}"
 
+# # %%
 
-# %%
 
-### Load in the dataset
+# # %%
 
-df = pd.read_csv(scraped_path)
-'EPBC Number', 'Project', 'Offset Name', 'Project Approval Date', 
-'Project Approval Expiry Date', 'Approval Holder', 'Url', 'Scraped'
+# ### Load in the dataset
 
-df.drop_duplicates(subset=['Url'], inplace=True)
+# df = pd.read_csv(scraped_path)
+# 'EPBC Number', 'Project', 'Offset Name', 'Project Approval Date', 
+# 'Project Approval Expiry Date', 'Approval Holder', 'Url', 'Scraped'
 
-# pp(df)
+# df.drop_duplicates(subset=['Url'], inplace=True)
 
+# # pp(df)
 
 
-# %%
 
-def dump_text(stringo, pathos, stem):
-    with open(f"{pathos}/{stem}.txt", "w") as writer:
-        writer.write(stringo)
+# # %%
 
-def already_done(stemmo, pathos):
-    inner = os.listdir(pathos)
-    inner = [x.strip(".txt") for x in inner]
-    # print("Inner", inner)
+# def dump_text(stringo, pathos, stem):
+#     with open(f"{pathos}/{stem}.txt", "w") as writer:
+#         writer.write(stringo)
 
-    if stemmo in inner:
-        return True
-    else:
-        return False
+# def already_done(stemmo, pathos):
+#     inner = os.listdir(pathos)
+#     inner = [x.strip(".txt") for x in inner]
+#     # print("Inner", inner)
 
-# %%
+#     if stemmo in inner:
+#         return True
+#     else:
+#         return False
 
-records = []
-has_changed = []
+# # %%
 
-old_changed = pd.read_csv('data/has_changed.csv')
-# old_changed.drop(columns={"Changed"}, inplace=True)
+# records = []
+# has_changed = []
 
-# df = df[:1]
+# old_changed = pd.read_csv('data/has_changed.csv')
+# # old_changed.drop(columns={"Changed"}, inplace=True)
 
-for index,row in df.iterrows():
+# # df = df[:1]
 
-    texto = ''
+# for index,row in df.iterrows():
 
-    urlo = row['Url']
-    nummer = row['EPBC Number'].replace("/", "_")
+#     texto = ''
 
-    if already_done(nummer, new_out_path) == True:
-        # print("Skipped")
-        continue
-    else:
+#     urlo = row['Url']
+#     nummer = row['EPBC Number'].replace("/", "_")
 
-        ### Grab the previous data:
+#     if already_done(nummer, new_out_path) == True:
+#         # print("Skipped")
+#         continue
+#     else:
 
-        old = ''
+#         ### Grab the previous data:
 
-        try:
+#         old = ''
 
-            with open(f'data/projects_raw/latest/{nummer}.txt', 'r') as reader:
-                old = reader.read()
-        except:
-            old = ''
+#         try:
 
-        dump_text(old, f'data/projects_raw/previous', nummer)
+#             with open(f'data/projects_raw/latest/{nummer}.txt', 'r') as reader:
+#                 old = reader.read()
+#         except:
+#             old = ''
 
-        # print(old)
-        # print(urlo)
+#         dump_text(old, f'data/projects_raw/previous', nummer)
 
-        driver.get(urlo)
+#         # print(old)
+#         # print(urlo)
 
-        # time.sleep(10)
+#         driver.get(urlo)
 
-        # print("Start")
-        # start = time.process_time()
-        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="customTab"]/li[2]/a')))
-        # print("That took: ", time.process_time() - start)
+#         # time.sleep(10)
 
-        driver.find_element(By.XPATH, '//*[@id="customTab"]/li[2]/a').click()
+#         # print("Start")
+#         # start = time.process_time()
+#         WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="customTab"]/li[2]/a')))
+#         # print("That took: ", time.process_time() - start)
 
-        # print("Clicko")
+#         driver.find_element(By.XPATH, '//*[@id="customTab"]/li[2]/a').click()
 
-        # time.sleep(5)
+#         # print("Clicko")
 
-        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
-        rand_delay(5)
-        sauce = driver.page_source
+#         # time.sleep(5)
 
-        soup = bs(sauce, 'html.parser')
+#         WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
+#         rand_delay(5)
+#         sauce = driver.page_source
 
-        # content = soup.find_all(id='mainContent')
-        content = soup.find_all(attrs={'data-name':'tab_2_section_1'})
+#         soup = bs(sauce, 'html.parser')
 
-        content = [x.text for x in content]
+#         # content = soup.find_all(id='mainContent')
+#         content = soup.find_all(attrs={'data-name':'tab_2_section_1'})
 
-        for x in content:
-            texto += '\n\n'
-            texto += x.strip()
-            # print(x.strip())
-            texto += '\n\n'   
+#         content = [x.text for x in content]
 
-        dump_text(texto, 'data/projects_raw/latest', nummer)
+#         for x in content:
+#             texto += '\n\n'
+#             texto += x.strip()
+#             # print(x.strip())
+#             texto += '\n\n'   
 
-        dump_text(texto, f'data/projects_raw/backup/{today_os_format}', nummer)
+#         dump_text(texto, 'data/projects_raw/latest', nummer)
 
+#         dump_text(texto, f'data/projects_raw/backup/{today_os_format}', nummer)
 
 
-        ### This is going to check whether the "Offset Sites" is stil "Under Review" as a boolean and save it as a csv
 
-        review = soup.find(attrs={'aria-label':'Under review'})
-        # review = soup.find(attrs={'aria-label':'Under reasdfasdf'})
-        review_ouput = True
+#         ### This is going to check whether the "Offset Sites" is stil "Under Review" as a boolean and save it as a csv
 
-        if review == None:
-            review_ouput = False
+#         review = soup.find(attrs={'aria-label':'Under review'})
+#         # review = soup.find(attrs={'aria-label':'Under reasdfasdf'})
+#         review_ouput = True
+
+#         if review == None:
+#             review_ouput = False
         
-        record = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
+#         record = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
 
-        records.append(record)
+#         records.append(record)
 
-        old_review = pd.read_csv('data/projects_raw/Under review.csv')
+#         old_review = pd.read_csv('data/projects_raw/Under review.csv')
 
-        inter = pd.DataFrame.from_records(records)
+#         inter = pd.DataFrame.from_records(records)
 
-        tog = pd.concat([old_review, inter])
-        tog.drop_duplicates(subset=['EPBC Number', 'Scraped'], inplace=True)
+#         tog = pd.concat([old_review, inter])
+#         tog.drop_duplicates(subset=['EPBC Number', 'Scraped'], inplace=True)
 
-        dumper('data/projects_raw', "Under review", tog)
-
-
-        if texto != old:
-
-            ### This is just updating the change csv
-            print(f"{nummer} has changed!")
-            changed = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
-            has_changed.append(changed)
-            changer = pd.DataFrame.from_records(has_changed)
-            change_dump = pd.concat([old_changed, changer])
-            change_dump.drop_duplicates(subset=['EPBC Number', 'Scraped'], inplace=True)
-            dumper('data', 'has_changed', change_dump)
-
-            ### Want to save the differences somewhere
-
-            # duff = duffer.compare(texto, old)
-            # dufference = ''.join(duff)
-
-            duff = difflib.ndiff(old.splitlines(), texto.splitlines())
-            dufference = '\n'.join(list(duff))
-
-            dump_text(dufference, f'data/projects_raw/differences', f"{today_os_format}_{nummer}")
+#         dumper('data/projects_raw', "Under review", tog)
 
 
+#         if texto != old:
 
-        # else:
-        #     # print("IT HASN'T CHANGED")
+#             ### This is just updating the change csv
+#             print(f"{nummer} has changed!")
+#             changed = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
+#             has_changed.append(changed)
+#             changer = pd.DataFrame.from_records(has_changed)
+#             change_dump = pd.concat([old_changed, changer])
+#             change_dump.drop_duplicates(subset=['EPBC Number', 'Scraped'], inplace=True)
+#             dumper('data', 'has_changed', change_dump)
 
-        #     continue
+#             ### Want to save the differences somewhere
+
+#             # duff = duffer.compare(texto, old)
+#             # dufference = ''.join(duff)
+
+#             duff = difflib.ndiff(old.splitlines(), texto.splitlines())
+#             dufference = '\n'.join(list(duff))
+
+#             dump_text(dufference, f'data/projects_raw/differences', f"{today_os_format}_{nummer}")
 
 
 
-        # print("Reivew", review)
-        donezo = len(os.listdir(f'data/projects_raw/backup/{today_os_format}'))
-        if donezo % 20 == 0:
-            print(f"{donezo}/{len(df)}")
-        rand_delay(10)
+#         # else:
+#         #     # print("IT HASN'T CHANGED")
 
-# %%
+#         #     continue
 
 
-driver.quit()
 
-#customTab > li:nth-child(2) > a
+#         # print("Reivew", review)
+#         donezo = len(os.listdir(f'data/projects_raw/backup/{today_os_format}'))
+#         if donezo % 20 == 0:
+#             print(f"{donezo}/{len(df)}")
+#         rand_delay(10)
 
-# <a class="nav-link" href="div[data-name='tab_sites']" data-toggle="tab" aria-expanded="false">Offset Sites</a>
+# # %%
+
+
+# driver.quit()
+
+# #customTab > li:nth-child(2) > a
+
+# # <a class="nav-link" href="div[data-name='tab_sites']" data-toggle="tab" aria-expanded="false">Offset Sites</a>
