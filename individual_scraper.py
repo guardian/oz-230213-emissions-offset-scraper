@@ -149,10 +149,10 @@ for index,row in df.iterrows():
         driver.get(urlo)
 
         # time.sleep(10)
-
+        time.sleep(5)
         # print("Start")
         # start = time.process_time()
-        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="customTab"]/li[2]/a')))
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@id="customTab"]/li[2]/a')))
         # print("That took: ", time.process_time() - start)
 
         driver.find_element(By.XPATH, '//*[@id="customTab"]/li[2]/a').click()
@@ -161,7 +161,7 @@ for index,row in df.iterrows():
 
         # time.sleep(5)
 
-        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
         rand_delay(5)
         sauce = driver.page_source
 
