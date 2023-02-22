@@ -273,10 +273,12 @@ for index,row in df.iterrows():
     except Exception as e:
         urlo = row['Url']
         nummer = row['EPBC Number'].replace("/", "_")
-        error_message = f"""Error with: {nummer}\n
-        URL: {urlo}\n
+
+        error_message = f"""Error with: {nummer}\n\n
+        URL: {urlo}\n\n
         Message: {e}"""
-        sendErrorEmail(error_message,"Offsets register changes", ['josh.nicholas@theguardian.com'])
+        
+        sendErrorEmail(error_message,"Offsets register scraper problem", ['josh.nicholas@theguardian.com'])
 
 # %%
 
