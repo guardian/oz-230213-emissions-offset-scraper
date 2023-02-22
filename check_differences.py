@@ -13,12 +13,13 @@ print("\n#### Checking differences and sending email\n\n")
 
 # %%
 
-import smtplib
-from email.mime.text import MIMEText
-import os
-
 def sendEmail(text, subject, to):
     
+
+    import smtplib
+    from email.mime.text import MIMEText
+    import os
+
     EMAIL_ALERT_PASSWORD = os.environ['EMAIL_ALERT_PASSWORD']
     
     fromaddr = "alerts@nickevershed.com"
@@ -67,9 +68,9 @@ if lenno > 0:
         texto += f"{nummer}: {urlo}\n"
         texto += "\n"
     
-    print(texto)
+    # print(texto)
 
-    # sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com'])
+    sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com'])
 
 # %%
 
