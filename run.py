@@ -17,8 +17,6 @@ def rand_delay(num):
 
 # %%
 
-import fix_broken_links
-
 import register_scraper
 
 rand_delay(5)
@@ -26,6 +24,8 @@ rand_delay(5)
 import combiner
 
 rand_delay(5)
+
+import fix_broken_links
 
 import individual_scraper
 
