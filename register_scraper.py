@@ -59,7 +59,7 @@ out_path = 'data/register_raw'
 
 folds = os.listdir(out_path)
 
-print("folds: ", folds)
+# print("folds: ", folds)
 
 if today_os_format not in folds:
     os.mkdir(f"{out_path}/{today_os_format}")
