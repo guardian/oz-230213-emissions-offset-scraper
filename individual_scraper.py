@@ -177,7 +177,7 @@ try:
                 driver.get(urlo)
 
                 # time.sleep(10)
-                time.sleep(5)
+                # time.sleep(5)
                 # print("Start")
                 # start = time.process_time()
                 WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@id="customTab"]/li[2]/a')))
@@ -254,7 +254,7 @@ try:
                     duff = difflib.ndiff(old.splitlines(), texto.splitlines())
                     dufference = '\n'.join(list(duff))
 
-                    dump_text(dufference, f'data/projects_raw/differences', f"{today_os_format}_{nummer}")
+                    dump_text(dufference, f'data/projects_raw/differences/{today_os_format}', nummer)
 
 
 
@@ -280,6 +280,8 @@ try:
             
             sendErrorEmail(error_message,"Offsets register scraper problem", ['josh.nicholas@theguardian.com'])
             continue
+
+
 # %%
 
 finally:
