@@ -37,3 +37,5 @@ if day_of_week == 6:
     import cleanup_old
 
 import check_differences
+
+data/projects_raw/differences
