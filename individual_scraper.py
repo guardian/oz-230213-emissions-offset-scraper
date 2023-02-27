@@ -254,7 +254,10 @@ try:
                     duff = difflib.ndiff(old.splitlines(), texto.splitlines())
                     dufference = '\n'.join(list(duff))
 
-                    dump_text(dufference, f'data/projects_raw/differences/{today_os_format}', nummer)
+                    # dump_text(dufference, f'data/projects_raw/differences/{today_os_format}', nummer)
+
+                    with open(f'data/projects_raw/differences/{today_os_format}_{nummer}.txt', "w") as writer:
+                        writer.write(dufference)
 
 
 
