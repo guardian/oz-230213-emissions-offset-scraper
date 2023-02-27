@@ -67,8 +67,8 @@ tog['Scraped'] = pd.to_datetime(tog['Scraped'])
 
 tog['Offset Name'] = tog['Offset Name'].str.strip()
 
-tog.sort_values(by=['Scraped'], ascending=True, inplace=True)
-tog.drop_duplicates(subset=['EPBC Number', 'Offset Name'], inplace=True)
+tog.sort_values(by=['Scraped'], ascending=False, inplace=True)
+tog.drop_duplicates(subset=['EPBC Number', 'Offset Name'], keep='first', inplace=True)
 
 dumper(f"{out_path}/backup", today_os_format, tog)
 dumper(out_path, "combined", tog)

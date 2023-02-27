@@ -7495,3 +7495,20 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1677535982808	geckodriver	INFO	Listening on 127.0.0.1:63416
+1677535983286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileWPTfJp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1677535983771	Marionette	INFO	Marionette enabled
+1677535983858	Marionette	INFO	Listening on port 63424
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63424
+WebDriver BiDi listening on ws://127.0.0.1:63417
+1677535984148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileWPTfJp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63417/devtools/browser/330be140-7105-4e20-a5f7-ad19d871e269
+1677536056684	Marionette	INFO	Stopped listening on port 63424
