@@ -143,6 +143,13 @@ has_changed = []
 old_changed = pd.read_csv('data/has_changed.csv')
 # old_changed.drop(columns={"Changed"}, inplace=True)
 
+# stringo = 'hi'
+# nummer = '5'
+
+# with open(f'data/projects_raw/differences/{today_os_format}_{nummer}.txt', "w") as writer:
+#     writer.write(stringo)
+
+
 # df = df[:1]
 try:
     for index,row in df.iterrows():
