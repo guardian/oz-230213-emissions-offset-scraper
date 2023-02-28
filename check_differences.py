@@ -13,6 +13,15 @@ print("\n#### Checking differences and sending email\n\n")
 
 # %%
 
+import pathlib
+pathos = pathlib.Path(__file__).parent
+os.chdir(pathos)
+# print(pathos)
+# print("Current path: ", os.getcwd())
+
+
+# %%
+
 def sendEmail(text, subject, to):
     
 

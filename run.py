@@ -1,5 +1,11 @@
-# from sudulunu.helpers import rand_delay
 
+# %%
+import os 
+import pathlib
+pathos = pathlib.Path(__file__).parent
+os.chdir(pathos)
+# print(pathos)
+# print("Current path: ", os.getcwd())
 
 # %%
 #### Import functions
@@ -38,4 +44,3 @@ if day_of_week == 6:
 
 import check_differences
 
-data/projects_raw/differences
