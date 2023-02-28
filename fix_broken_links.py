@@ -18,4 +18,14 @@ for thing in to_fix:
     old.loc[old['EPBC Number'] == thing[0], 'Url'] = thing[1]
 
 
+
+#### Remove ones that don't work.
+
+
+to_remove = ['https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=7f2ac5ce-e927-ec11-80c9-00505684c137']
+
+for thing in to_remove:
+    old = old.loc[old['Url'] != thing]
+
+
 dumper('data/register_combined', 'combined', old)
