@@ -263,7 +263,7 @@ try:
 
                     # dump_text(dufference, f'data/projects_raw/differences/{today_os_format}', nummer)
 
-                    with open(f'data/projects_raw/differences/{today_os_format}_{nummer}.txt', "w") as writer:
+                    with open(f'data/differences/{today_os_format}_{nummer}.txt', "w") as writer:
                         writer.write(dufference)
 
 
