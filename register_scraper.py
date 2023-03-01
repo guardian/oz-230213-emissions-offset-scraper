@@ -95,96 +95,102 @@ if day_of_week == 5:
 # for nummer in range(1, 131):
     # time.sleep(5)
 
-for nummer in range(1, rangeo):
+try:
 
-    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
+    for nummer in range(1, rangeo):
 
-    if f"{nummer}.csv" not in os.listdir(new_out_path):
 
-        # time.sleep(15)
 
         WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
 
-        sauce = driver.page_source
+        if f"{nummer}.csv" not in os.listdir(new_out_path):
 
-        soup = bs(sauce, 'html.parser')
+            # time.sleep(15)
 
+            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, f"{nummer}")))
 
-        rows = soup.find_all('tr')[1:]
+            sauce = driver.page_source
 
-        # print(rows)
-
-        # https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9299af79-0275-ed11-81ac-000d3ae0929c
-
-        # bows = rows[:2]
-        bows = rows.copy()
-
-        dicto = {}
-
-        for row in bows:
-            # print(row)
-            teeds = row.find_all('td')
-
-            # print(teeds[0])
-            # print(teeds[0].text)
-
-            epbc_num = teeds[0].text
-            urlo = 'https://epbcpublicportal.awe.gov.au' + teeds[0].a['href']
-            # print(urlo)
-
-            dicto[epbc_num] = urlo
-
-        # print(rows[0])
-        # print(dicto)
+            soup = bs(sauce, 'html.parser')
 
 
-        tabs = pd.read_html(sauce)[0]
-        # 'EPBC Number. sort descending', 'Project. sort descending', 'Offset Name. sort descending', 
-        # 'Project Approval Date. sort descending', 'Project Approval Expiry Date. sort descending', 
-        # 'Approval Holder. sort descending'
+            rows = soup.find_all('tr')[1:]
 
-        # print(tabs.columns.tolist())
+            # print(rows)
 
-        if len(tabs) >= 1:
+            # https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9299af79-0275-ed11-81ac-000d3ae0929c
 
-            rename = {}
+            # bows = rows[:2]
+            bows = rows.copy()
 
-            for col in tabs.columns.tolist():
-                rename[col] = col.replace('. sort descending', '').replace('. sort ascending', '').strip()
+            dicto = {}
 
-            # print(rename)
+            for row in bows:
+                # print(row)
+                teeds = row.find_all('td')
 
-            tabs.rename(columns=rename, inplace=True)
-            columns = tabs.columns.tolist()
+                # print(teeds[0])
+                # print(teeds[0].text)
 
-            tabs['Url'] = tabs[columns[0]]
-            tabs.replace({'Url': dicto}, inplace=True)
+                epbc_num = teeds[0].text
+                urlo = 'https://epbcpublicportal.awe.gov.au' + teeds[0].a['href']
+                # print(urlo)
 
-            tabs['Scraped'] = today_use_date
+                dicto[epbc_num] = urlo
 
-            tabs['Project Approval Date'] = pd.to_datetime(tabs['Project Approval Date'], format="%d/%m/%Y")
-            tabs['Scraped'] = pd.to_datetime(tabs['Scraped'], format="%Y/%m/%d")
-            tabs['Project Approval Expiry Date'] = pd.to_datetime(tabs['Project Approval Expiry Date'], format="%d/%m/%Y")
-
-            # tabs['Stem'] = tabs['EPBC Number'].str.replace("/", "_")
-
-            dumper(f"{new_out_path}", f"{nummer}", tabs)
+            # print(rows[0])
+            # print(dicto)
 
 
-            # pp(tabs)
+            tabs = pd.read_html(sauce)[0]
+            # 'EPBC Number. sort descending', 'Project. sort descending', 'Offset Name. sort descending', 
+            # 'Project Approval Date. sort descending', 'Project Approval Expiry Date. sort descending', 
+            # 'Approval Holder. sort descending'
 
-            # print(f"Just finished {nummer}...")
+            # print(tabs.columns.tolist())
 
-            # driver.quit()
-        
-        else: 
-            print("\n\nBROKEN\n\n")
-            break
+            if len(tabs) >= 1:
 
-        # rand_delay(5)
-    else:
-        # print("Skipped table page ", nummer)
-        skipped += 1
+                rename = {}
+
+                for col in tabs.columns.tolist():
+                    rename[col] = col.replace('. sort descending', '').replace('. sort ascending', '').strip()
+
+                # print(rename)
+
+                tabs.rename(columns=rename, inplace=True)
+                columns = tabs.columns.tolist()
+
+                tabs['Url'] = tabs[columns[0]]
+                tabs.replace({'Url': dicto}, inplace=True)
+
+                tabs['Scraped'] = today_use_date
+
+                tabs['Project Approval Date'] = pd.to_datetime(tabs['Project Approval Date'], format="%d/%m/%Y")
+                tabs['Scraped'] = pd.to_datetime(tabs['Scraped'], format="%Y/%m/%d")
+                tabs['Project Approval Expiry Date'] = pd.to_datetime(tabs['Project Approval Expiry Date'], format="%d/%m/%Y")
+
+                # tabs['Stem'] = tabs['EPBC Number'].str.replace("/", "_")
+
+                dumper(f"{new_out_path}", f"{nummer}", tabs)
+
+
+                # pp(tabs)
+
+                # print(f"Just finished {nummer}...")
+
+                # driver.quit()
+            
+            else: 
+                print("\n\nBROKEN\n\n")
+                break
+
+            # rand_delay(5)
+        else:
+            # print("Skipped table page ", nummer)
+            skipped += 1
+
+
 
 ### This was how I was selecting the next button before (xpath), however it doesn't remain consistent throughout
 
@@ -192,13 +198,15 @@ for nummer in range(1, rangeo):
     
 ### Selecting the button based on the link text value (the page number)    
     
-    rand_delay(10)
-    button_num = nummer + 1
-    button = driver.find_element(By.LINK_TEXT, f"{button_num}").click()
-    # button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Next page"]').click()
-    # print("Clicko")
+        rand_delay(10)
+        button_num = nummer + 1
+        button = driver.find_element(By.LINK_TEXT, f"{button_num}").click()
+        # button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Next page"]').click()
+        # print("Clicko")
 
-print("Skipped: ", skipped)
+# print("Skipped: ", skipped)
 
-driver.quit()
+finally:
+
+    driver.quit()
 
