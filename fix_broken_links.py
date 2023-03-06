@@ -14,7 +14,6 @@ old = pd.read_csv(pathos)
 to_fix = [('2019/8487','https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=be67e082-1e82-eb11-80c2-00505684c137'),
           ('2015/7516', 'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9b4bf5ef-20e8-eb11-80c6-00505684c137')]
 
-
 for thing in to_fix:
     old.loc[old['EPBC Number'] == thing[0], 'Url'] = thing[1]
 

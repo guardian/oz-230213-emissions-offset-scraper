@@ -88,7 +88,7 @@ skipped = 0
 rangeo = 11
 
 if day_of_week == 5:
-    rangeo = 131
+    rangeo = 130
 
 
 # for nummer in range(1, 10):

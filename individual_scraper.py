@@ -9,6 +9,8 @@ import difflib
 
 from bs4 import BeautifulSoup as bs 
 
+import sys 
+
 from dates import today_os_format, today_use_date, today
 # from dates import yest_os_format, yest_use_date
 
@@ -196,14 +198,16 @@ try:
 
                 # time.sleep(5)
 
-                WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
+                WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, "//*[@data-name='sitesTab']")))
+                # WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@data-name="tab_2_section_1"]')))
                 rand_delay(5)
                 sauce = driver.page_source
 
                 soup = bs(sauce, 'html.parser')
 
                 # content = soup.find_all(id='mainContent')
-                content = soup.find_all(attrs={'data-name':'tab_2_section_1'})
+                # content = soup.find_all(attrs={'data-name':'tab_2_section_1'})
+                content = soup.find_all(attrs={'data-name':'sitesTab'})
 
                 content = [x.text for x in content]
 
@@ -219,16 +223,38 @@ try:
 
 
 
-                ### This is going to check whether the "Offset Sites" is stil "Under Review" as a boolean and save it as a csv
+                # ### This is going to check whether the "Offset Sites" is stil "Under Review" as a boolean and save it as a csv
 
-                review = soup.find(attrs={'aria-label':'Under review'})
-                # review = soup.find(attrs={'aria-label':'Under reasdfasdf'})
-                review_ouput = True
+                # review = soup.find(attrs={'aria-label':'Under review'})
 
-                if review == None:
-                    review_ouput = False
+                # print(review)
+
+                # # review = soup.find(attrs={'aria-label':'Under reasdfasdf'})
+                # review_ouput = True
+
+                # if review == None:
+                #     review_ouput = False
                 
-                record = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
+                # record = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
+
+                # records.append(record)
+
+                # old_review = pd.read_csv('data/projects_raw/Under review.csv')
+
+                # inter = pd.DataFrame.from_records(records)
+
+                # tog = pd.concat([old_review, inter])
+                # tog.drop_duplicates(subset=['EPBC Number', 'Scraped'], inplace=True)
+
+                # dumper('data/projects_raw', "Under review", tog)
+
+
+                review_output = False
+
+                if "Under review" in texto:
+                    review_output = True
+                
+                record = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_output, 'Scraped': today_use_date}
 
                 records.append(record)
 
@@ -246,7 +272,7 @@ try:
 
                     ### This is just updating the change csv
                     print(f"{nummer} has changed!")
-                    changed = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_ouput, 'Scraped': today_use_date}
+                    changed = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_output, 'Scraped': today_use_date}
                     has_changed.append(changed)
                     changer = pd.DataFrame.from_records(has_changed)
                     change_dump = pd.concat([old_changed, changer])
@@ -266,14 +292,10 @@ try:
                     with open(f'data/differences/{today_os_format}_{nummer}.txt', "w") as writer:
                         writer.write(dufference)
 
-
-
                 # else:
                 #     # print("IT HASN'T CHANGED")
 
                 #     continue
-
-
 
                 # print("Reivew", review)
                 donezo = len(os.listdir(f'data/projects_raw/backup/{today_os_format}'))
@@ -286,10 +308,18 @@ try:
 
             error_message = f"""Error with: {nummer}\n\n
             URL: {urlo}\n\n
-            Message: {e}"""
-            
+            Error message: {e}\n\n\n
+            Line: {sys.exc_info()[-1].tb_lineno}
+            """
+
+            print(urlo)
+            print(f"Exception is {e}")
+            print(f"Line: {sys.exc_info()[-1].tb_lineno}")
+
+
             sendErrorEmail(error_message,"Offsets register scraper problem", ['josh.nicholas@theguardian.com'])
             continue
+            # break
 
 
 # %%

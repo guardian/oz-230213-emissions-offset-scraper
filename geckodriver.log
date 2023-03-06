@@ -7992,3 +7992,199 @@ ALSA lib seq_hw.c:466:(snd_seq_hw_open) open /dev/snd/seq failed: No such file o
 1678033905142	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1678033942705	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1678033975374	Marionette	INFO	Stopped listening on port 42583
+1678070904107	geckodriver	INFO	Listening on 127.0.0.1:63381
+1678070904127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63382" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileer7Ob7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678070904712	Marionette	INFO	Marionette enabled
+1678070904804	Marionette	INFO	Listening on port 63394
+Read port: 63394
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63382
+1678070905274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileer7Ob7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63382/devtools/browser/8b5ffc8b-11ed-416d-841f-8949ae6e5dd3
+1678070972860	Marionette	INFO	Stopped listening on port 63394
+1678071294541	geckodriver	INFO	Listening on 127.0.0.1:65083
+1678071294559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5APdfN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678071294936	Marionette	INFO	Marionette enabled
+1678071295067	Marionette	INFO	Listening on port 65089
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65089
+WebDriver BiDi listening on ws://127.0.0.1:65084
+1678071295328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile5APdfN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65084/devtools/browser/b541a2bf-644a-4240-86b8-22f69d53bb8d
+1678071303317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071393293	geckodriver	INFO	Listening on 127.0.0.1:49169
+1678071393311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileGCx3Rt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678071393670	Marionette	INFO	Marionette enabled
+1678071393793	Marionette	INFO	Listening on port 49184
+Read port: 49184
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49170
+1678071394053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileGCx3Rt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49170/devtools/browser/9793a576-43a0-4b29-a346-4f6602a1372a
+1678071399551	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071446757	geckodriver	INFO	Listening on 127.0.0.1:49441
+1678071446775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileHpJB3c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678071447136	Marionette	INFO	Marionette enabled
+1678071447264	Marionette	INFO	Listening on port 49451
+Read port: 49451
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49442
+1678071447504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileHpJB3c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49442/devtools/browser/6ac29156-5999-4488-994c-407d519baa5a
+1678071449378	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071480671	Marionette	INFO	Stopped listening on port 49451
+1678071632071	geckodriver	INFO	Listening on 127.0.0.1:50270
+1678071632089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIRQgp4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678071632460	Marionette	INFO	Marionette enabled
+1678071632585	Marionette	INFO	Listening on port 50280
+Read port: 50280
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50271
+1678071632820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileIRQgp4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50271/devtools/browser/6f279c2e-4a81-4d96-8164-043d7a62b8d8
+1678071637978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071669156	Marionette	INFO	Stopped listening on port 50280
+1678071738228	geckodriver	INFO	Listening on 127.0.0.1:50769
+1678071738246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileyJpuks"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678071738601	Marionette	INFO	Marionette enabled
+1678071738724	Marionette	INFO	Listening on port 50780
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50780
+WebDriver BiDi listening on ws://127.0.0.1:50770
+1678071738956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileyJpuks/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50770/devtools/browser/1807b1fa-144f-4fa8-943c-57c879d62c0a
+1678071743036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071749860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071754062	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071759696	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071774538	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071785754	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071796023	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071946458	geckodriver	INFO	Listening on 127.0.0.1:51680
+1678071946476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileURjiJs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678071946863	Marionette	INFO	Marionette enabled
+1678071946921	Marionette	INFO	Listening on port 51691
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51691
+WebDriver BiDi listening on ws://127.0.0.1:51681
+1678071947390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileURjiJs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51681/devtools/browser/afa4bb37-61df-445f-a143-9f3c30c8d35f
+1678071952797	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071961233	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678071968455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072128178	geckodriver	INFO	Listening on 127.0.0.1:52486
+1678072128196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilepzT5Zh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678072128561	Marionette	INFO	Marionette enabled
+1678072128629	Marionette	INFO	Listening on port 52497
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52497
+WebDriver BiDi listening on ws://127.0.0.1:52487
+1678072129153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilepzT5Zh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52487/devtools/browser/64edf44c-4dc9-4d70-a227-02581368e2d7
+1678072133535	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072137763	Marionette	INFO	Stopped listening on port 52497
+1678072202176	geckodriver	INFO	Listening on 127.0.0.1:52842
+1678072202195	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile4IY4lL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678072202582	Marionette	INFO	Marionette enabled
+1678072202636	Marionette	INFO	Listening on port 52852
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52852
+WebDriver BiDi listening on ws://127.0.0.1:52843
+1678072203018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile4IY4lL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52843/devtools/browser/249aaaff-b7f3-490a-8370-c664bb35189b
+1678072205337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072216910	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072226251	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072231599	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072238611	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072250951	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072264443	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072710992	geckodriver	INFO	Listening on 127.0.0.1:55087
+1678072711011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilecsQ4D0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678072711357	Marionette	INFO	Marionette enabled
+1678072711411	Marionette	INFO	Listening on port 55097
+Read port: 55097
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55088
+1678072711876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofilecsQ4D0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55088/devtools/browser/bfb462fd-a18f-40c7-96c2-24100c5b6231
+1678072718303	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072732919	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072748303	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072761088	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072771397	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072779845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072793306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072802343	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072812895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072816804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072825256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678072834977	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
