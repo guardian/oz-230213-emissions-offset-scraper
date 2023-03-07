@@ -10947,3 +10947,37 @@ ALSA lib seq_hw.c:466:(snd_seq_hw_open) open /dev/snd/seq failed: No such file o
 1678208422259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1678208435525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1678208442917	Marionette	INFO	Stopped listening on port 43045
+1678227121617	geckodriver	INFO	Listening on 127.0.0.1:50050
+1678227122112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileDFeUf1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678227122552	Marionette	INFO	Marionette enabled
+1678227122616	Marionette	INFO	Listening on port 50058
+Read port: 50058
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50051
+1678227123212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofileDFeUf1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50051/devtools/browser/8aba79a4-371b-4f88-8d80-4296b49430b4
+1678227917752	Marionette	INFO	Stopped listening on port 50058
+1678228052339	geckodriver	INFO	Listening on 127.0.0.1:50277
+1678228052862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile3wcOvs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1678228053213	Marionette	INFO	Marionette enabled
+1678228053269	Marionette	INFO	Listening on port 50285
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50285
+WebDriver BiDi listening on ws://127.0.0.1:50278
+1678228053784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile3wcOvs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50278/devtools/browser/ceb2b5ee-1326-4847-8ceb-d04f5f36e609
+1678228816738	Marionette	INFO	Stopped listening on port 50285

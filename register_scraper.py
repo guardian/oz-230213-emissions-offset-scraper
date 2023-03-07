@@ -87,6 +87,8 @@ skipped = 0
 
 rangeo = 11
 
+# day_of_week = 5
+
 if day_of_week == 5:
     rangeo = 130
 
@@ -199,7 +201,8 @@ try:
 ### Selecting the button based on the link text value (the page number)    
     
         rand_delay(10)
-        button_num = nummer + 1
+        button_num = nummer
+        # button_num = nummer + 1
         button = driver.find_element(By.LINK_TEXT, f"{button_num}").click()
         # button = driver.find_element(By.CSS_SELECTOR, '[aria-label="Next page"]').click()
         # print("Clicko")
