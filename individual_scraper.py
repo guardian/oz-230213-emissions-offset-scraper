@@ -160,7 +160,10 @@ try:
             texto = ''
 
             urlo = row['Url']
-            nummer = row['EPBC Number'].replace("/", "_")
+            # nummer = row['EPBC Number'].replace("/", "_")
+            nummer = urlo.split("/")[-1]
+
+
 
             if already_done(nummer, new_out_path) == True:
                 # print("Skipped")
@@ -271,7 +274,7 @@ try:
                 if texto != old:
 
                     ### This is just updating the change csv
-                    print(f"{nummer} has changed!")
+                    # print(f"{nummer} has changed!")
                     changed = {'EPBC Number': row['EPBC Number'], 'Stem': nummer, "Url": urlo, "Under Review": review_output, 'Scraped': today_use_date}
                     has_changed.append(changed)
                     changer = pd.DataFrame.from_records(has_changed)
@@ -317,7 +320,7 @@ try:
             print(f"Line: {sys.exc_info()[-1].tb_lineno}")
 
 
-            sendErrorEmail(error_message,"Offsets register scraper problem", ['josh.nicholas@theguardian.com'])
+            sendErrorEmail(error_message,"Offs/ets register scraper problem", ['josh.nicholas@theguardian.com'])
             continue
             # break
 
