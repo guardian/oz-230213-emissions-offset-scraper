@@ -23,9 +23,13 @@ def rand_delay(num):
 
 # %%
 
-import register_scraper
+try:
 
-rand_delay(5)
+  import register_scraper
+
+except:
+
+  rand_delay(5)
 
 import combiner
 

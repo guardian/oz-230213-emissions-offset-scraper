@@ -79,7 +79,7 @@ if lenno > 0:
     
     # print(texto)
 
-    sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com'])
+    sendEmail(texto,"Offsets register changes", ['josh.nicholas@theguardian.com', 'nick.evershed@theguardian.com', 'lisa.cox@theguardian.com'])
 
 # %%
 
