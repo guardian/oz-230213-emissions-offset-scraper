@@ -26291,3 +26291,31 @@ console.error: "update.locale" " file doesn't exist in either the application or
 1679505711300	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1679505728494	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1679505743808	Marionette	INFO	Stopped listening on port 40179
+1679523165471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NqvdCZVxOje8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1679523165796	Marionette	INFO	Marionette enabled
+1679523165801	Marionette	INFO	Listening on port 46837
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679523165954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.NqvdCZVxOje8/search.json.mozlz4", (void 0)))
+ALSA lib seq_hw.c:466:(snd_seq_hw_open) open /dev/snd/seq failed: No such file or directory
+1679523245830	Marionette	INFO	Stopped listening on port 46837
+1679523248617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qjH4X34dRh3z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1679523248952	Marionette	INFO	Marionette enabled
+1679523248958	Marionette	INFO	Listening on port 38097
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679523249111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.qjH4X34dRh3z/search.json.mozlz4", (void 0)))
+ALSA lib seq_hw.c:466:(snd_seq_hw_open) open /dev/snd/seq failed: No such file or directory
+1679523294273	Marionette	INFO	Stopped listening on port 38097
