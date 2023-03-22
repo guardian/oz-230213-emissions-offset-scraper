@@ -26,7 +26,8 @@ to_remove = ['https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail
              'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9a163abf-75b6-ea11-8731-005056842ad1',
              'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=7f2ac5ce-e927-ec11-80c9-00505684c137',
              'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9a163abf-75b6-ea11-8731-005056842ad1',
-             'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9a163abf-75b6-ea11-8731-005056842ad1']
+             'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=9a163abf-75b6-ea11-8731-005056842ad1',
+             'https://epbcpublicportal.awe.gov.au/offsets-register/offset-detail/?id=55700b2e-ec82-eb11-80c5-00505684c563 ']
 
 for thing in to_remove:
     old = old.loc[old['Url'] != thing]
