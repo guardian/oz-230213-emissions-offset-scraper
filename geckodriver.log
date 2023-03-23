@@ -27353,3 +27353,19 @@ console.error: "update.locale" " file doesn't exist in either the application or
 1679592099525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1679592111829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1679592127144	Marionette	INFO	Stopped listening on port 34353
+1679614624549	geckodriver	INFO	Listening on 127.0.0.1:51105
+1679614625019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile94XC6a"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1679614625419	Marionette	INFO	Marionette enabled
+1679614625480	Marionette	INFO	Listening on port 51115
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51115
+WebDriver BiDi listening on ws://127.0.0.1:51106
+1679614625953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/4w391kn52y51w5mmd37_xfn80000gq/T/rust_mozprofile94XC6a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51106/devtools/browser/3cb8fac2-3bcc-4d9a-818e-b0d5716e9b7e

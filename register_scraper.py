@@ -89,7 +89,9 @@ rangeo = 11
 
 # day_of_week = 5
 
-if day_of_week == 5:
+# print(day_of_week)
+
+if day_of_week == 4:
     rangeo = 130
 
 
